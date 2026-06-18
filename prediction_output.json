@@ -1,0 +1,7382 @@
+[
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "417",
+    "debris_name": "THOR ABLESTAR DEB",
+    "impact_time": "2026-01-14T22:34:09.668246Z",
+    "risk_metrics": {
+      "collision_probability": 3.0528722397730283e-12,
+      "miss_distance_km": 92.10925197222637,
+      "energy_joules": 350025317.0689376,
+      "energy_mass_ratio": 29168.776422411465
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        55.55074940937438,
+        47.78210953698581,
+        -55.813067888582054
+      ],
+      "covariance_ric_diagonal": [
+        4311.393524579731,
+        223341.64334174272,
+        211174.36464767755,
+        0.011043315062287729,
+        0.013945231937271799,
+        0.005463015789178386
+      ],
+      "mahalanobis_distance": 0.8556088627823754
+    },
+    "assessment": {
+      "severity_score": 24,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.9534544549328647,
+        -0.25806359595868117,
+        0.1559736599621463
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 92.10925197222637
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.5553,
+      -3.8042,
+      -3.2515
+    ],
+    "R_TARGET_ECI_KM": [
+      -1827.044,
+      2715.8698,
+      -6312.7434
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "465",
+    "debris_name": "THOR ABLESTAR DEB",
+    "impact_time": "2026-01-15T00:50:09.682400Z",
+    "risk_metrics": {
+      "collision_probability": 1.779711290612414e-12,
+      "miss_distance_km": 88.92950110597602,
+      "energy_joules": 72888084.15624487,
+      "energy_mass_ratio": 6074.007013020406
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        14.101349839461781,
+        81.62301602483008,
+        32.361881197996375
+      ],
+      "covariance_ric_diagonal": [
+        5963.476813671265,
+        502275.22791766305,
+        98584.16803066582,
+        0.019345577450529304,
+        0.009828379828903036,
+        0.005714438502186125
+      ],
+      "mahalanobis_distance": 0.20056335617844995
+    },
+    "assessment": {
+      "severity_score": 22,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.6733186798079922,
+        0.7270502515943709,
+        -0.1343126450611975
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 88.92950110597602
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -2.3742,
+      0.4913,
+      7.0897
+    ],
+    "R_TARGET_ECI_KM": [
+      5124.4509,
+      -4487.7563,
+      2011.6001
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "2088",
+    "debris_name": "SCOUT X-4 DEB",
+    "impact_time": "2026-01-14T12:07:09.693085Z",
+    "risk_metrics": {
+      "collision_probability": 7.347539389509466e-11,
+      "miss_distance_km": 36.15479834674166,
+      "energy_joules": 227559962.3836307,
+      "energy_mass_ratio": 18963.330198635893
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        14.412053890656995,
+        12.457749449262588,
+        -30.728921634280457
+      ],
+      "covariance_ric_diagonal": [
+        153.5907902232796,
+        9367.607307491418,
+        6135.3649302853,
+        0.0009348951899922455,
+        0.0010965432527388329,
+        0.001031528412541131
+      ],
+      "mahalanobis_distance": 1.1648636760036777
+    },
+    "assessment": {
+      "severity_score": 38,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.25794249554589255,
+        -0.9438680464039967,
+        0.2063462616856356
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 36.15479834674166
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -3.9406,
+      4.171,
+      -4.8314
+    ],
+    "R_TARGET_ECI_KM": [
+      -4108.1233,
+      2283.3528,
+      5308.4175
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "2142",
+    "debris_name": "OAO 1",
+    "impact_time": "2026-01-14T10:33:09.696392Z",
+    "risk_metrics": {
+      "collision_probability": 7.883602149182205e-16,
+      "miss_distance_km": 82.86530143520264,
+      "energy_joules": 254450231044.64545,
+      "energy_mass_ratio": 21204185.92038712
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        56.97668443468232,
+        59.19278174294453,
+        -10.794915576777608
+      ],
+      "covariance_ric_diagonal": [
+        19.54319725513848,
+        1231.2056391048352,
+        737.1596996400266,
+        0.00031977299239517083,
+        0.000451640481545509,
+        0.00039595361765337695
+      ],
+      "mahalanobis_distance": 12.924253937222709
+    },
+    "assessment": {
+      "severity_score": -11,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.04731173484229599,
+        -0.7424674224288252,
+        0.6682093431134759
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 82.86530143520264
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -2.286,
+      3.1457,
+      -6.4139
+    ],
+    "R_TARGET_ECI_KM": [
+      -5103.584,
+      3463.4258,
+      3503.8884
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "3177",
+    "debris_name": "OV1-14 R/B",
+    "impact_time": "2026-01-15T05:59:09.703320Z",
+    "risk_metrics": {
+      "collision_probability": 3.646586143845947e-12,
+      "miss_distance_km": 91.45746727837482,
+      "energy_joules": 637165348.9871858,
+      "energy_mass_ratio": 53097.11241559882
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -10.655991319094134,
+        -88.74379276500675,
+        -19.376723553375264
+      ],
+      "covariance_ric_diagonal": [
+        139181.52816477118,
+        2666665.07894558,
+        142321.35261364825,
+        0.15903863024052578,
+        0.27798567400167135,
+        0.012275359119755028
+      ],
+      "mahalanobis_distance": 0.056363000006713966
+    },
+    "assessment": {
+      "severity_score": 25,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.4158391745190754,
+        -0.11844488203072713,
+        0.9016920703334484
+      ],
+      "impact_location": "-Z",
+      "miss_distance_km": 91.45746727837482
+    },
+    "metadata": {
+      "regime": "HEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.3209,
+      3.4171,
+      4.0279
+    ],
+    "R_TARGET_ECI_KM": [
+      2466.1913,
+      -3113.0904,
+      5876.1224
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "4819",
+    "debris_name": "THORAD AGENA D DEB",
+    "impact_time": "2026-01-15T06:56:09.710279Z",
+    "risk_metrics": {
+      "collision_probability": 9.464308213878857e-13,
+      "miss_distance_km": 90.87806979724837,
+      "energy_joules": 130528755.25459418,
+      "energy_mass_ratio": 10877.396271216181
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        35.294616028876774,
+        82.54236356786618,
+        -14.13760467964428
+      ],
+      "covariance_ric_diagonal": [
+        11755.689880499123,
+        866543.4592783017,
+        315561.9637911994,
+        0.024001068979653456,
+        0.02967877174313885,
+        0.020206660550040993
+      ],
+      "mahalanobis_distance": 0.3370136866311587
+    },
+    "assessment": {
+      "severity_score": 19,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.24959519823560078,
+        0.9477210942934476,
+        0.19881389314901557
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 90.87806979724837
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.9053,
+      -4.5105,
+      -0.7965
+    ],
+    "R_TARGET_ECI_KM": [
+      72.4006,
+      1322.6368,
+      -6988.234
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "5240",
+    "debris_name": "COSMOS 374 DEB",
+    "impact_time": "2026-01-15T07:05:09.717400Z",
+    "risk_metrics": {
+      "collision_probability": 1.6458975472231435e-12,
+      "miss_distance_km": 71.89256290799796,
+      "energy_joules": 644708832.2133656,
+      "energy_mass_ratio": 53725.736017780466
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        33.39719066367748,
+        14.649961529343138,
+        61.95600765416687
+      ],
+      "covariance_ric_diagonal": [
+        11913.730881582454,
+        734513.8090023485,
+        464347.5396280691,
+        0.019437215833440075,
+        0.010181112625750426,
+        0.009732471881533224
+      ],
+      "mahalanobis_distance": 0.3255120628227633
+    },
+    "assessment": {
+      "severity_score": 22,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.2354539390690666,
+        0.9176222576267088,
+        -0.3202043640114623
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 71.89256290799796
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      4.9406,
+      -4.5505,
+      3.2782
+    ],
+    "R_TARGET_ECI_KM": [
+      3081.8916,
+      -1191.5356,
+      -6299.7299
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "6217",
+    "debris_name": "OPS 8180 (STP RADSAT)",
+    "impact_time": "2026-01-15T01:59:09.721778Z",
+    "risk_metrics": {
+      "collision_probability": 1.3141231592695117e-10,
+      "miss_distance_km": 94.45744914481067,
+      "energy_joules": 19268510361.026722,
+      "energy_mass_ratio": 1605709.196752227
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -64.55416630821436,
+        4.220372804947367,
+        68.82701333475944
+      ],
+      "covariance_ric_diagonal": [
+        6892.17565033032,
+        615455.1068326382,
+        80096.67472103139,
+        0.015261984445986195,
+        0.013547065428071525,
+        0.006974935684275681
+      ],
+      "mahalanobis_distance": 0.7703934495367132
+    },
+    "assessment": {
+      "severity_score": 41,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.4192290442972512,
+        0.8951105651948803,
+        0.15173689048683453
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 94.45744914481067
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8744,
+      -4.6038,
+      -0.3803
+    ],
+    "R_TARGET_ECI_KM": [
+      393.6872,
+      1076.6659,
+      -7019.8423
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "6275",
+    "debris_name": "OPS 7323 (DMSP 5B F3)",
+    "impact_time": "2026-01-14T15:20:09.726360Z",
+    "risk_metrics": {
+      "collision_probability": 1.45755780239256e-09,
+      "miss_distance_km": 64.524400856089,
+      "energy_joules": 286181159654.0428,
+      "energy_mass_ratio": 23848429.97117023
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        51.06420104080054,
+        17.786959420962027,
+        -35.206103909109494
+      ],
+      "covariance_ric_diagonal": [
+        827.6178850290246,
+        61316.835514527396,
+        22255.625102443573,
+        0.003993740503952288,
+        0.002346294822624411,
+        0.0022342699789614554
+      ],
+      "mahalanobis_distance": 1.8100535762993744
+    },
+    "assessment": {
+      "severity_score": 51,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.8838093234369574,
+        -0.27891285796074844,
+        0.37561775427273864
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 64.524400856089
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.2138,
+      4.7357,
+      -2.5785
+    ],
+    "R_TARGET_ECI_KM": [
+      -2558.6096,
+      763.2723,
+      6565.8004
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "9023",
+    "debris_name": "SL-8 R/B",
+    "impact_time": "2026-01-14T22:45:09.738558Z",
+    "risk_metrics": {
+      "collision_probability": 3.497347243347641e-10,
+      "miss_distance_km": 34.07737875981308,
+      "energy_joules": 226626403680.00375,
+      "energy_mass_ratio": 18885533.640000314
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        25.675077743373645,
+        22.36532584025631,
+        1.360266911544269
+      ],
+      "covariance_ric_diagonal": [
+        4425.924490678986,
+        249922.27444159944,
+        197057.27157972177,
+        0.015485720954468124,
+        0.005489343345013433,
+        0.007646089563758507
+      ],
+      "mahalanobis_distance": 0.3874197660912742
+    },
+    "assessment": {
+      "severity_score": 45,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.25120905281999717,
+        0.9620978747238844,
+        -0.10612111509930999
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 34.07737875981308
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.4999,
+      -4.7488,
+      1.7451
+    ],
+    "R_TARGET_ECI_KM": [
+      1974.5984,
+      -225.4076,
+      -6830.2691
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "9444",
+    "debris_name": "SL-8 R/B",
+    "impact_time": "2026-01-15T07:37:09.745035Z",
+    "risk_metrics": {
+      "collision_probability": 7.706094168429162e-11,
+      "miss_distance_km": 46.76898610281443,
+      "energy_joules": 40866364934.26987,
+      "energy_mass_ratio": 3405530.4111891557
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        33.99590094774798,
+        25.738410723921376,
+        19.213302507452667
+      ],
+      "covariance_ric_diagonal": [
+        12470.011153770101,
+        984742.5978194976,
+        274664.5511147325,
+        0.0236927655054354,
+        0.04295860317147355,
+        0.010653116262323965
+      ],
+      "mahalanobis_distance": 0.3052362940977059
+    },
+    "assessment": {
+      "severity_score": 38,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.8117743903121212,
+        0.5800394956663655,
+        -0.06764999864231445
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 46.76898610281443
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.0931,
+      3.1293,
+      4.525
+    ],
+    "R_TARGET_ECI_KM": [
+      2876.1978,
+      -3364.8898,
+      5542.7186
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "12206",
+    "debris_name": "DELTA 1 DEB",
+    "impact_time": "2026-01-15T07:31:09.753089Z",
+    "risk_metrics": {
+      "collision_probability": 4.030348356247316e-12,
+      "miss_distance_km": 66.23605487185917,
+      "energy_joules": 823868627.9781481,
+      "energy_mass_ratio": 68655.71899817901
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        43.54137398943032,
+        49.5962930869317,
+        -5.618845801022718
+      ],
+      "covariance_ric_diagonal": [
+        12384.052110626511,
+        1159650.232712159,
+        88271.66875721423,
+        0.015776757154860342,
+        0.05158627856559925,
+        0.011788506438772382
+      ],
+      "mahalanobis_distance": 0.39334730268430657
+    },
+    "assessment": {
+      "severity_score": 26,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.3644242906436793,
+        -0.34899431412746357,
+        -0.8633642944668618
+      ],
+      "impact_location": "+Z",
+      "miss_distance_km": 66.23605487185917
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -3.6041,
+      1.5891,
+      6.3765
+    ],
+    "R_TARGET_ECI_KM": [
+      4460.813,
+      -4224.5746,
+      3556.4352
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "12730",
+    "debris_name": "COSMOS 1275 DEB",
+    "impact_time": "2026-01-14T13:22:09.760630Z",
+    "risk_metrics": {
+      "collision_probability": 6.596417313275686e-11,
+      "miss_distance_km": 80.13971369595222,
+      "energy_joules": 47494466234.36084,
+      "energy_mass_ratio": 3957872.1861967365
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        47.31579876676908,
+        59.228342787593206,
+        25.992158605378695
+      ],
+      "covariance_ric_diagonal": [
+        352.84943560486124,
+        35131.697232383565,
+        386.37771001155363,
+        0.0015281013196640444,
+        0.0029596605664320864,
+        0.0013387933798140353
+      ],
+      "mahalanobis_distance": 2.896450586269213
+    },
+    "assessment": {
+      "severity_score": 38,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.5828819743680602,
+        -0.3570641277996454,
+        -0.7298998646813349
+      ],
+      "impact_location": "+Z",
+      "miss_distance_km": 80.13971369595222
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -4.4638,
+      2.5375,
+      5.4614
+    ],
+    "R_TARGET_ECI_KM": [
+      3606.3624,
+      -3873.0217,
+      4727.3241
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "13026",
+    "debris_name": "COSMOS 1275 DEB",
+    "impact_time": "2026-01-14T20:41:09.768012Z",
+    "risk_metrics": {
+      "collision_probability": 2.992724546451246e-12,
+      "miss_distance_km": 93.94241020976641,
+      "energy_joules": 17399297.60821279,
+      "energy_mass_ratio": 1449.941467351066
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -89.52741688722233,
+        4.636182377110928,
+        -28.08066727283537
+      ],
+      "covariance_ric_diagonal": [
+        3136.4075635936706,
+        301208.41839684476,
+        15561.915919561508,
+        0.008795338271534902,
+        0.01260404139772551,
+        0.004637404782128502
+      ],
+      "mahalanobis_distance": 1.5994409503103113
+    },
+    "assessment": {
+      "severity_score": 24,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.6480478391339626,
+        -0.7608485903134912,
+        -0.03381449217151572
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 93.94241020976641
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      2.1329,
+      -0.289,
+      -7.1764
+    ],
+    "R_TARGET_ECI_KM": [
+      -5197.0412,
+      4519.3518,
+      -1738.5832
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "14452",
+    "debris_name": "METEOR 2-10",
+    "impact_time": "2026-01-15T05:18:09.780869Z",
+    "risk_metrics": {
+      "collision_probability": 6.715125629673174e-10,
+      "miss_distance_km": 19.435932183699023,
+      "energy_joules": 335372993509.1998,
+      "energy_mass_ratio": 27947749.459099986
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        12.831671266716874,
+        12.096690066997983,
+        8.171521386819734
+      ],
+      "covariance_ric_diagonal": [
+        9975.480149509955,
+        981598.0215709199,
+        25814.22706557029,
+        0.03092263444555303,
+        0.01894714124144941,
+        0.007610811974775347
+      ],
+      "mahalanobis_distance": 0.14537054903417632
+    },
+    "assessment": {
+      "severity_score": 48,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.8381005081925672,
+        0.5453759979313919,
+        0.012351474146382848
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 19.435932183699023
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8736,
+      -4.6163,
+      -0.1928
+    ],
+    "R_TARGET_ECI_KM": [
+      533.019,
+      966.4676,
+      -7026.7895
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "17619",
+    "debris_name": "COSMOS 1275 DEB",
+    "impact_time": "2026-01-15T07:55:09.792734Z",
+    "risk_metrics": {
+      "collision_probability": 6.365134985700166e-12,
+      "miss_distance_km": 77.52236189378469,
+      "energy_joules": 842696778.468036,
+      "energy_mass_ratio": 70224.731539003
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        67.09974680674758,
+        9.663457838032432,
+        -37.60263494323048
+      ],
+      "covariance_ric_diagonal": [
+        12813.56886708459,
+        1279371.1539874107,
+        14723.317557504708,
+        0.02343659502489616,
+        0.03357741719543935,
+        0.008476815741849046
+      ],
+      "mahalanobis_distance": 0.6744202017456112
+    },
+    "assessment": {
+      "severity_score": 28,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.6676102014949251,
+        -0.5828750211630501,
+        0.4631990160074923
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 77.52236189378469
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -4.885,
+      4.5335,
+      -3.442
+    ],
+    "R_TARGET_ECI_KM": [
+      -3182.8275,
+      1288.0524,
+      6201.3781
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "17635",
+    "debris_name": "COSMOS 1275 DEB",
+    "impact_time": "2026-01-14T23:35:09.801237Z",
+    "risk_metrics": {
+      "collision_probability": 8.13041696406018e-12,
+      "miss_distance_km": 99.52825503623097,
+      "energy_joules": 842188950.8553568,
+      "energy_mass_ratio": 70182.41257127974
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        85.99840076425005,
+        22.634281383017644,
+        -44.6971802558378
+      ],
+      "covariance_ric_diagonal": [
+        5009.758188486296,
+        499063.66605575004,
+        6745.007167763851,
+        0.011626746198960772,
+        0.016620660451891343,
+        0.00524348591515789
+      ],
+      "mahalanobis_distance": 1.3507785118859712
+    },
+    "assessment": {
+      "severity_score": 29,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.7544452041604756,
+        -0.6012195849781111,
+        0.2633390294358124
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 99.52825503623097
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.4756,
+      4.7563,
+      -1.9108
+    ],
+    "R_TARGET_ECI_KM": [
+      -2083.0159,
+      323.2828,
+      6766.9474
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "18608",
+    "debris_name": "COSMOS 1678 DEB *",
+    "impact_time": "2026-01-15T07:05:09.813884Z",
+    "risk_metrics": {
+      "collision_probability": 9.727387412909286e-13,
+      "miss_distance_km": 94.27223542810458,
+      "energy_joules": 175060137.14777452,
+      "energy_mass_ratio": 14588.344762314544
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -53.51311667230884,
+        72.39271926889397,
+        27.980259353389602
+      ],
+      "covariance_ric_diagonal": [
+        11874.977152349691,
+        801280.1324516531,
+        397619.96990799723,
+        0.027032970193874635,
+        0.010598335391227034,
+        0.009522895237846581
+      ],
+      "mahalanobis_distance": 0.49532660649369603
+    },
+    "assessment": {
+      "severity_score": 19,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.24664584066845543,
+        0.9673666988477052,
+        -0.058030155505119765
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 94.27223542810458
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      4.9406,
+      -4.5505,
+      3.2782
+    ],
+    "R_TARGET_ECI_KM": [
+      3081.8916,
+      -1191.5356,
+      -6299.7299
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "19257",
+    "debris_name": "SL-8 R/B",
+    "impact_time": "2026-01-15T09:23:09.822826Z",
+    "risk_metrics": {
+      "collision_probability": 1.0652309689398817e-10,
+      "miss_distance_km": 76.00297896169423,
+      "energy_joules": 232287088151.96655,
+      "energy_mass_ratio": 19357257.345997214
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        33.474421219198454,
+        -19.192352365511,
+        65.4795353203539
+      ],
+      "covariance_ric_diagonal": [
+        14599.907844345335,
+        835139.9532593985,
+        635280.744092256,
+        0.02661647221883203,
+        0.030829926052350756,
+        0.033116530522944235
+      ],
+      "mahalanobis_distance": 0.2975356426784246
+    },
+    "assessment": {
+      "severity_score": 40,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.9942388151447245,
+        -0.04271749839506424,
+        -0.09830764786799914
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 76.00297896169423
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.8965,
+      4.3063,
+      1.7085
+    ],
+    "R_TARGET_ECI_KM": [
+      636.4685,
+      -1844.8319,
+      6815.0755
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "20433",
+    "debris_name": "SL-8 R/B",
+    "impact_time": "2026-01-15T03:48:09.828033Z",
+    "risk_metrics": {
+      "collision_probability": 1.1241902293156515e-10,
+      "miss_distance_km": 95.81499749371929,
+      "energy_joules": 49883457254.2544,
+      "energy_mass_ratio": 4156954.771187867
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        60.29580565123722,
+        50.32517662464294,
+        54.88448016778654
+      ],
+      "covariance_ric_diagonal": [
+        8507.461205167298,
+        637399.7082516181,
+        221839.2137092143,
+        0.021349077162834948,
+        0.011757188710675971,
+        0.00981982875385597
+      ],
+      "mahalanobis_distance": 0.6526034377851759
+    },
+    "assessment": {
+      "severity_score": 40,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.32442953139263214,
+        0.9438002136088643,
+        -0.0631398099813833
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 95.81499749371929
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      4.5791,
+      -4.4132,
+      3.9283
+    ],
+    "R_TARGET_ECI_KM": [
+      3534.9318,
+      -1629.8118,
+      -5954.08
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "20435",
+    "debris_name": "SL-8 DEB",
+    "impact_time": "2026-01-15T08:32:09.836119Z",
+    "risk_metrics": {
+      "collision_probability": 1.0136898781954898e-12,
+      "miss_distance_km": 79.79444206667208,
+      "energy_joules": 363359688.89804626,
+      "energy_mass_ratio": 30279.974074837188
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -56.36214722352459,
+        44.0269771296548,
+        -35.384836157739656
+      ],
+      "covariance_ric_diagonal": [
+        13544.619227017674,
+        696903.9167861615,
+        669961.9290648212,
+        0.02757838869497229,
+        0.030790169763447124,
+        0.011006248192557685
+      ],
+      "mahalanobis_distance": 0.48377000025436245
+    },
+    "assessment": {
+      "severity_score": 20,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.9704010054217013,
+        -0.22708665575247536,
+        0.08217992000477387
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 79.79444206667208
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.7991,
+      -4.1195,
+      -2.2974
+    ],
+    "R_TARGET_ECI_KM": [
+      -1092.3014,
+      2179.1181,
+      -6680.9816
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "20511",
+    "debris_name": "SL-14 R/B",
+    "impact_time": "2026-01-14T23:26:09.840139Z",
+    "risk_metrics": {
+      "collision_probability": 1.86610642587676e-10,
+      "miss_distance_km": 91.46382088332051,
+      "energy_joules": 61370899916.37147,
+      "energy_mass_ratio": 5114241.659697622
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -85.82796517276499,
+        30.96782989360515,
+        6.33911954134906
+      ],
+      "covariance_ric_diagonal": [
+        4901.6546442845365,
+        346815.882984108,
+        148135.56722160755,
+        0.008515685872299568,
+        0.014363949666846697,
+        0.006977333939843272
+      ],
+      "mahalanobis_distance": 1.2265882804637536
+    },
+    "assessment": {
+      "severity_score": 42,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.8842666123291608,
+        0.46684744899835573,
+        0.01122574586084246
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 91.46382088332051
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.7964,
+      4.1887,
+      2.2546
+    ],
+    "R_TARGET_ECI_KM": [
+      1045.5538,
+      -2159.4148,
+      6671.3901
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "25260",
+    "debris_name": "SPOT 4",
+    "impact_time": "2026-01-14T10:08:09.858092Z",
+    "risk_metrics": {
+      "collision_probability": 2.6141789559880246e-104,
+      "miss_distance_km": 93.33778609532713,
+      "energy_joules": 310497567760.1492,
+      "energy_mass_ratio": 25874797.313345764
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -7.901596800498349,
+        61.34503359504086,
+        69.90203097480577
+      ],
+      "covariance_ric_diagonal": [
+        5.294737462307825,
+        446.50118335054884,
+        85.67216518714329,
+        0.00016529527194981958,
+        0.00035225791049709165,
+        0.00019851150185674966
+      ],
+      "mahalanobis_distance": 12.570166819227447
+    },
+    "assessment": {
+      "severity_score": 40,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.5031269823057561,
+        -0.6842059514132558,
+        -0.527944557304274
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 93.33778609532713
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.3592,
+      3.6173,
+      3.7956
+    ],
+    "R_TARGET_ECI_KM": [
+      2233.1206,
+      -3025.659,
+      6013.139
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "25400",
+    "debris_name": "SL-16 R/B",
+    "impact_time": "2026-01-14T14:24:09.866222Z",
+    "risk_metrics": {
+      "collision_probability": 7.438413033645405e-10,
+      "miss_distance_km": 98.05469880448858,
+      "energy_joules": 976876597.6973304,
+      "energy_mass_ratio": 81406.3831414442
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        78.99593239034637,
+        54.23941104146035,
+        20.79550223712594
+      ],
+      "covariance_ric_diagonal": [
+        578.161983528036,
+        57334.78190101035,
+        906.5128094616233,
+        0.002688871385577326,
+        0.0031903699561904248,
+        0.001726164776644432
+      ],
+      "mahalanobis_distance": 3.236804834204433
+    },
+    "assessment": {
+      "severity_score": 48,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.5342327487246247,
+        0.8168141867812923,
+        0.21773826484581585
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 98.05469880448858
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8311,
+      -4.6618,
+      -0.3382
+    ],
+    "R_TARGET_ECI_KM": [
+      434.9525,
+      1047.7413,
+      -7021.7152
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "25615",
+    "debris_name": "USA 141",
+    "impact_time": "2026-01-14T11:55:09.873032Z",
+    "risk_metrics": {
+      "collision_probability": 1.156934410891125e-08,
+      "miss_distance_km": 81.72792357398887,
+      "energy_joules": 296568029194.2223,
+      "energy_mass_ratio": 24714002.43285186
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        17.19917489901735,
+        78.34333947405949,
+        -15.683208681932769
+      ],
+      "covariance_ric_diagonal": [
+        129.93625625230416,
+        10142.64259079927,
+        2916.399964948427,
+        0.0011254354059747876,
+        0.0010873045972746422,
+        0.0008892115040369816
+      ],
+      "mahalanobis_distance": 1.570820361898345
+    },
+    "assessment": {
+      "severity_score": 60,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.5092336644589028,
+        -0.8553803957057914,
+        -0.094897067822705
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 81.72792357398887
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.8445,
+      4.6842,
+      0.3717
+    ],
+    "R_TARGET_ECI_KM": [
+      -405.2287,
+      -1067.5011,
+      6995.5488
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "25865",
+    "debris_name": "SL-16 DEB",
+    "impact_time": "2026-01-14T19:22:09.878472Z",
+    "risk_metrics": {
+      "collision_probability": 4.07148508324529e-12,
+      "miss_distance_km": 87.73954247202889,
+      "energy_joules": 32864678.42282433,
+      "energy_mass_ratio": 2738.7232019020275
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        3.2666517374439246,
+        73.12917932663414,
+        -48.37023289834565
+      ],
+      "covariance_ric_diagonal": [
+        2436.1277090252684,
+        225037.6338221873,
+        20433.137326787444,
+        0.007434651679732402,
+        0.008551131830937576,
+        0.004193263840900148
+      ],
+      "mahalanobis_distance": 0.1642277182565081
+    },
+    "assessment": {
+      "severity_score": 26,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.7554656281396245,
+        -0.6334984803491444,
+        -0.1671866005921217
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 87.73954247202889
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8456,
+      -4.6469,
+      -0.2897
+    ],
+    "R_TARGET_ECI_KM": [
+      467.4512,
+      1020.4319,
+      -7023.7097
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "25984",
+    "debris_name": "ORBCOMM FM 36",
+    "impact_time": "2026-01-14T10:00:09.884124Z",
+    "risk_metrics": {
+      "collision_probability": 5.942022786565555e-104,
+      "miss_distance_km": 69.56402222652488,
+      "energy_joules": 40645984693.18318,
+      "energy_mass_ratio": 3387165.3910985985
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        37.70797948097748,
+        36.37477350505258,
+        -45.76174520547434
+      ],
+      "covariance_ric_diagonal": [
+        2.6444168007251294,
+        197.73066390920533,
+        66.83366129006944,
+        0.00011930560060287212,
+        0.00027119737445148017,
+        0.00016704062045302788
+      ],
+      "mahalanobis_distance": 24.86584995469705
+    },
+    "assessment": {
+      "severity_score": 40,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.6741500609457046,
+        0.09225101736441013,
+        -0.7328106474237898
+      ],
+      "impact_location": "+Z",
+      "miss_distance_km": 69.56402222652488
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -3.5428,
+      1.6138,
+      6.4042
+    ],
+    "R_TARGET_ECI_KM": [
+      4416.4892,
+      -4308.6919,
+      3511.3484
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "27430",
+    "debris_name": "HAIYANG 1",
+    "impact_time": "2026-01-15T00:20:09.896287Z",
+    "risk_metrics": {
+      "collision_probability": 1.5805740248456368e-10,
+      "miss_distance_km": 72.82041112670902,
+      "energy_joules": 5028291813.04023,
+      "energy_mass_ratio": 419024.31775335246
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        55.99731022120902,
+        38.84053018679641,
+        25.661775843872594
+      ],
+      "covariance_ric_diagonal": [
+        5568.363036006168,
+        540050.618619796,
+        21810.67456619771,
+        0.012488347385927944,
+        0.02079944356469792,
+        0.006101607018836023
+      ],
+      "mahalanobis_distance": 0.7465454732447135
+    },
+    "assessment": {
+      "severity_score": 41,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.502002791810473,
+        0.8475545749963138,
+        0.17217560315577035
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 72.82041112670902
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8597,
+      -4.6317,
+      -0.2413
+    ],
+    "R_TARGET_ECI_KM": [
+      500.1407,
+      993.34,
+      -7025.4011
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "27560",
+    "debris_name": "MOZHAYETS",
+    "impact_time": "2026-01-15T00:23:09.902708Z",
+    "risk_metrics": {
+      "collision_probability": 2.2547844383430374e-10,
+      "miss_distance_km": 52.380080729404746,
+      "energy_joules": 174425716818.81238,
+      "energy_mass_ratio": 14535476.401567698
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -23.21855497232561,
+        -11.79431403757279,
+        -45.447395069455474
+      ],
+      "covariance_ric_diagonal": [
+        5612.275359200442,
+        283190.6811320715,
+        282506.5349847279,
+        0.01616594955706617,
+        0.006090666077728786,
+        0.007179313248499676
+      ],
+      "mahalanobis_distance": 0.31563000563121973
+    },
+    "assessment": {
+      "severity_score": 43,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.9713879545101731,
+        -0.07993391650237705,
+        -0.22364259576201548
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 52.380080729404746
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.6568,
+      -4.7451,
+      1.1518
+    ],
+    "R_TARGET_ECI_KM": [
+      1539.7271,
+      146.9075,
+      -6943.2064
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "28315",
+    "debris_name": "DMSP 5D-2 F11 DEB",
+    "impact_time": "2026-01-15T00:11:09.912732Z",
+    "risk_metrics": {
+      "collision_probability": 6.405476455266356e-12,
+      "miss_distance_km": 45.77560402829577,
+      "energy_joules": 785670661.5146233,
+      "energy_mass_ratio": 65472.555126218605
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        23.426384730810742,
+        23.866375798030024,
+        -31.25710365447464
+      ],
+      "covariance_ric_diagonal": [
+        5449.827220733838,
+        472916.13503974385,
+        77503.5033995223,
+        0.01024363651679267,
+        0.018861864544698626,
+        0.0054933920893916665
+      ],
+      "mahalanobis_distance": 0.3611713987068975
+    },
+    "assessment": {
+      "severity_score": 28,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.5071277429313142,
+        0.6384590439274426,
+        0.5789572535499549
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 45.77560402829577
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.2238,
+      -3.3452,
+      -4.1785
+    ],
+    "R_TARGET_ECI_KM": [
+      -2575.4342,
+      3206.9875,
+      -5799.4947
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "28367",
+    "debris_name": "SL-24 R/B",
+    "impact_time": "2026-01-15T05:18:09.918958Z",
+    "risk_metrics": {
+      "collision_probability": 9.334907905436493e-11,
+      "miss_distance_km": 28.535318765586375,
+      "energy_joules": 21178728386.201023,
+      "energy_mass_ratio": 1764894.0321834185
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -4.922193817651564,
+        17.82859913444622,
+        21.729645141564603
+      ],
+      "covariance_ric_diagonal": [
+        9974.6815018418,
+        882992.7132496826,
+        124420.33403447566,
+        0.02776393865066145,
+        0.017009908355936982,
+        0.008479870500505379
+      ],
+      "mahalanobis_distance": 0.06104003803448619
+    },
+    "assessment": {
+      "severity_score": 39,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.42179188285197106,
+        0.8851686937435751,
+        0.19638734847950023
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 28.535318765586375
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8736,
+      -4.6163,
+      -0.1928
+    ],
+    "R_TARGET_ECI_KM": [
+      533.019,
+      966.4676,
+      -7026.7895
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "29047",
+    "debris_name": "FORMOSAT 3A",
+    "impact_time": "2026-01-15T01:03:09.929561Z",
+    "risk_metrics": {
+      "collision_probability": 2.671255077199204e-11,
+      "miss_distance_km": 98.83512943528883,
+      "energy_joules": 12173386137.947876,
+      "energy_mass_ratio": 1014448.8448289897
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        60.38273415858997,
+        -62.881116006535066,
+        46.564723512504926
+      ],
+      "covariance_ric_diagonal": [
+        6150.775052120097,
+        381065.6543602695,
+        237087.36678361052,
+        0.013516107002763336,
+        0.02005635259832188,
+        0.009120271280694802
+      ],
+      "mahalanobis_distance": 0.786457223410002
+    },
+    "assessment": {
+      "severity_score": 34,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.9107066696624603,
+        0.40431390657318683,
+        -0.08451997704608558
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 98.83512943528883
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.5799,
+      3.807,
+      3.2543
+    ],
+    "R_TARGET_ECI_KM": [
+      1834.489,
+      -2709.9223,
+      6290.8221
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "29078",
+    "debris_name": "DMSP 5D-2 F11 DEB",
+    "impact_time": "2026-01-14T15:08:09.936446Z",
+    "risk_metrics": {
+      "collision_probability": 3.547225802430451e-11,
+      "miss_distance_km": 19.077974039822262,
+      "energy_joules": 737188173.0999275,
+      "energy_mass_ratio": 61432.3477583273
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        5.8346223048401775,
+        6.838529337623838,
+        -16.82738222429299
+      ],
+      "covariance_ric_diagonal": [
+        770.1391069672401,
+        59683.81442802823,
+        18076.799951004552,
+        0.002449288085269407,
+        0.004518278210766833,
+        0.0027776188135736645
+      ],
+      "mahalanobis_distance": 0.2482021297885301
+    },
+    "assessment": {
+      "severity_score": 35,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.47680691563283145,
+        -0.7738969322646855,
+        -0.4168197491638221
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 19.077974039822262
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.6398,
+      3.9881,
+      2.9168
+    ],
+    "R_TARGET_ECI_KM": [
+      1548.2642,
+      -2537.6348,
+      6437.4607
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "29784",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-15T00:21:09.944883Z",
+    "risk_metrics": {
+      "collision_probability": 1.819542402117441e-12,
+      "miss_distance_km": 84.53228690743884,
+      "energy_joules": 30031004.502178375,
+      "energy_mass_ratio": 2502.5837085148646
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        45.02360210794841,
+        -59.02349086093829,
+        -40.43278755682615
+      ],
+      "covariance_ric_diagonal": [
+        5601.979123768019,
+        519571.9360244285,
+        43547.55069180332,
+        0.012965609830098418,
+        0.01810837701616251,
+        0.00729254519251965
+      ],
+      "mahalanobis_distance": 0.6280384694947038
+    },
+    "assessment": {
+      "severity_score": 22,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.750175459572738,
+        -0.631921720027553,
+        -0.19470931899535462
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 84.53228690743884
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8151,
+      -4.6881,
+      0.2246
+    ],
+    "R_TARGET_ECI_KM": [
+      850.5009,
+      713.6526,
+      -7025.902
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "29912",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-14T10:56:09.953175Z",
+    "risk_metrics": {
+      "collision_probability": 1.0415634670724968e-15,
+      "miss_distance_km": 57.05215944796889,
+      "energy_joules": 785550627.8964884,
+      "energy_mass_ratio": 65462.55232470737
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        52.6666470736219,
+        19.02568759216655,
+        -10.917710169458553
+      ],
+      "covariance_ric_diagonal": [
+        40.550418999338476,
+        3573.850764303624,
+        518.690166697037,
+        0.0004535097805361559,
+        0.0008003727859486491,
+        0.0005001672384673816
+      ],
+      "mahalanobis_distance": 8.312836763104078
+    },
+    "assessment": {
+      "severity_score": -9,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.5010053519789293,
+        0.6155466132468436,
+        0.6083551627711062
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 57.05215944796889
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.0831,
+      -3.2642,
+      -4.4111
+    ],
+    "R_TARGET_ECI_KM": [
+      -2731.2168,
+      3354.7562,
+      -5641.9552
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "29933",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-15T01:47:09.960229Z",
+    "risk_metrics": {
+      "collision_probability": 6.031921231089171e-12,
+      "miss_distance_km": 95.910083207332,
+      "energy_joules": 811093658.0817374,
+      "energy_mass_ratio": 67591.13817347812
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -54.75763082390563,
+        64.20921016274146,
+        45.57985583201315
+      ],
+      "covariance_ric_diagonal": [
+        6758.596992864684,
+        616932.5316767725,
+        61620.745118362705,
+        0.014329190307683433,
+        0.026727410523576856,
+        0.0071284264213663726
+      ],
+      "mahalanobis_distance": 0.6757906089650022
+    },
+    "assessment": {
+      "severity_score": 27,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.47029099931185886,
+        0.5001192442669266,
+        0.7271224912927532
+      ],
+      "impact_location": "-Z",
+      "miss_distance_km": 95.910083207332
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      4.5541,
+      -2.5699,
+      -5.3524
+    ],
+    "R_TARGET_ECI_KM": [
+      -3551.0442,
+      3790.6044,
+      -4852.9448
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "29946",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-14T22:40:09.966257Z",
+    "risk_metrics": {
+      "collision_probability": 2.4244190990113396e-12,
+      "miss_distance_km": 91.82045943826097,
+      "energy_joules": 144365505.79852864,
+      "energy_mass_ratio": 12030.458816544053
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        84.79939093256027,
+        19.253525858444124,
+        29.484942105053634
+      ],
+      "covariance_ric_diagonal": [
+        4369.689665571901,
+        313868.79290382296,
+        127427.65185260527,
+        0.015026731955838457,
+        0.008041777306618007,
+        0.004997458692870182
+      ],
+      "mahalanobis_distance": 1.2852492899005097
+    },
+    "assessment": {
+      "severity_score": 23,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.23469619916256154,
+        0.9578113069167429,
+        0.16587704518074126
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 91.82045943826097
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8714,
+      -4.5885,
+      -0.5676
+    ],
+    "R_TARGET_ECI_KM": [
+      254.6585,
+      1186.8797,
+      -7008.367
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "30038",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-14T23:30:09.975219Z",
+    "risk_metrics": {
+      "collision_probability": 2.2520495439478935e-12,
+      "miss_distance_km": 43.59825071245405,
+      "energy_joules": 121816026.47712073,
+      "energy_mass_ratio": 10151.33553976006
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        36.218854219219054,
+        1.2259997176072472,
+        -24.238378430195898
+      ],
+      "covariance_ric_diagonal": [
+        4949.442207552237,
+        374146.7635049828,
+        125615.68960946535,
+        0.01315345710304968,
+        0.014056265431432052,
+        0.010390474390444587
+      ],
+      "mahalanobis_distance": 0.5226097290255549
+    },
+    "assessment": {
+      "severity_score": 23,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.27172127494460546,
+        -0.954161240910707,
+        -0.1254745979646063
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 43.59825071245405
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.8879,
+      4.6261,
+      0.4139
+    ],
+    "R_TARGET_ECI_KM": [
+      -364.1043,
+      -1095.9453,
+      6993.3461
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "30251",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-14T11:09:09.986570Z",
+    "risk_metrics": {
+      "collision_probability": 3.011942414517725e-13,
+      "miss_distance_km": 80.08076918270262,
+      "energy_joules": 498000826.96589774,
+      "energy_mass_ratio": 41500.06891382481
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        31.730765630751915,
+        69.58088926902866,
+        23.76105961254164
+      ],
+      "covariance_ric_diagonal": [
+        55.80850604835056,
+        2908.3608571069412,
+        2725.115820844707,
+        0.0006793444658346246,
+        0.0006377191736678771,
+        0.0006378113079046506
+      ],
+      "mahalanobis_distance": 4.45359535677877
+    },
+    "assessment": {
+      "severity_score": 14,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.9719394787066713,
+        0.004163358153848017,
+        -0.235194209125723
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 80.08076918270262
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.5675,
+      -4.8038,
+      1.3307
+    ],
+    "R_TARGET_ECI_KM": [
+      1671.7659,
+      19.1082,
+      -6914.1204
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "30364",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-15T08:37:09.995131Z",
+    "risk_metrics": {
+      "collision_probability": 7.700143974624854e-13,
+      "miss_distance_km": 97.203983988899,
+      "energy_joules": 49735364.99998858,
+      "energy_mass_ratio": 4144.613749999048
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -71.15364225076877,
+        63.709924426148504,
+        -18.078142254617656
+      ],
+      "covariance_ric_diagonal": [
+        13663.55402929634,
+        1215864.4318080037,
+        160969.46333070015,
+        0.03176427080161866,
+        0.01730310677518141,
+        0.009281361031423446
+      ],
+      "mahalanobis_distance": 0.5975817656863479
+    },
+    "assessment": {
+      "severity_score": 18,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.7575198528839254,
+        -0.6275055850082497,
+        -0.18000114643950632
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 97.203983988899
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8692,
+      -4.6257,
+      -0.0052
+    ],
+    "R_TARGET_ECI_KM": [
+      672.5638,
+      856.357,
+      -7029.2043
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "30390",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-14T10:10:10.002923Z",
+    "risk_metrics": {
+      "collision_probability": 6.196762051145319e-32,
+      "miss_distance_km": 51.45371704960036,
+      "energy_joules": 739330196.1739831,
+      "energy_mass_ratio": 61610.84968116526
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        37.04002078037817,
+        4.518137495348125,
+        -35.427507566615766
+      ],
+      "covariance_ric_diagonal": [
+        6.104689941978378,
+        473.641169249086,
+        139.9750628089356,
+        0.00018028237398287397,
+        0.00034847241455743895,
+        0.00022539553941759624
+      ],
+      "mahalanobis_distance": 15.479978809954213
+    },
+    "assessment": {
+      "severity_score": 40,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.4770939205996278,
+        -0.7721071297316109,
+        -0.4197999178199937
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 51.45371704960036
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.6139,
+      3.9915,
+      2.9616
+    ],
+    "R_TARGET_ECI_KM": [
+      1573.8567,
+      -2568.5195,
+      6419.114
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "30850",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-14T20:14:10.010157Z",
+    "risk_metrics": {
+      "collision_probability": 4.350066327892224e-12,
+      "miss_distance_km": 71.45441199497245,
+      "energy_joules": 329761544.8097179,
+      "energy_mass_ratio": 27480.128734143156
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        44.99378636466891,
+        54.05818761368053,
+        12.609699998093273
+      ],
+      "covariance_ric_diagonal": [
+        2885.0097053355676,
+        152839.82818070042,
+        138543.26510796402,
+        0.008145997203520848,
+        0.004744088978895322,
+        0.00964227878314544
+      ],
+      "mahalanobis_distance": 0.8391227453097753
+    },
+    "assessment": {
+      "severity_score": 26,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.9608477040662505,
+        0.20763716015005615,
+        0.18346252778589905
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 71.45441199497245
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.7336,
+      4.7675,
+      -0.8031
+    ],
+    "R_TARGET_ECI_KM": [
+      -1273.4521,
+      -360.3493,
+      6962.9809
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "30978",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-14T20:59:10.018966Z",
+    "risk_metrics": {
+      "collision_probability": 4.334077648514935e-12,
+      "miss_distance_km": 78.39866960112279,
+      "energy_joules": 488975423.7810489,
+      "energy_mass_ratio": 40747.95198175407
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        46.750287374422506,
+        57.54668010668858,
+        -25.478258071017727
+      ],
+      "covariance_ric_diagonal": [
+        3310.5493795863968,
+        171653.38326361577,
+        162630.09916079775,
+        0.007947071366541719,
+        0.008040562037187827,
+        0.01100400519756305
+      ],
+      "mahalanobis_distance": 0.8278877688900153
+    },
+    "assessment": {
+      "severity_score": 26,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.20096385982376555,
+        0.9504506923986121,
+        0.23718559861028982
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 78.39866960112279
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8608,
+      -4.4363,
+      -1.3535
+    ],
+    "R_TARGET_ECI_KM": [
+      -342.9316,
+      1647.9934,
+      -6910.2065
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "31088",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-15T00:16:10.026652Z",
+    "risk_metrics": {
+      "collision_probability": 3.4922890211229803e-12,
+      "miss_distance_km": 91.5909474820869,
+      "energy_joules": 620652065.6089439,
+      "energy_mass_ratio": 51721.005467412
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        53.016238433692116,
+        72.24492558011748,
+        18.943359019234038
+      ],
+      "covariance_ric_diagonal": [
+        5526.425844906936,
+        340395.1535015737,
+        216355.52640351932,
+        0.013607073938301031,
+        0.015238384406816347,
+        0.010566172802410507
+      ],
+      "mahalanobis_distance": 0.7167321206929557
+    },
+    "assessment": {
+      "severity_score": 25,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.35299779229744543,
+        0.8813554185988688,
+        0.31401462479265047
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 91.5909474820869
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8056,
+      -4.2253,
+      -2.0777
+    ],
+    "R_TARGET_ECI_KM": [
+      -907.1539,
+      2061.851,
+      -6745.6713
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "31208",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-14T22:01:10.034349Z",
+    "risk_metrics": {
+      "collision_probability": 9.031859272439937e-12,
+      "miss_distance_km": 78.99351459668564,
+      "energy_joules": 787259024.2091925,
+      "energy_mass_ratio": 65604.91868409938
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -27.280099585265912,
+        69.91847873955456,
+        24.640978992345687
+      ],
+      "covariance_ric_diagonal": [
+        3963.349723641658,
+        341337.5089158978,
+        56858.68468046058,
+        0.006682929935391605,
+        0.007765796490941534,
+        0.005228151322035285
+      ],
+      "mahalanobis_distance": 0.4296443792711467
+    },
+    "assessment": {
+      "severity_score": 29,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.7346591634711032,
+        -0.3528090867342591,
+        0.5794839615617302
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 78.99351459668564
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -4.4399,
+      4.3839,
+      -4.1635
+    ],
+    "R_TARGET_ECI_KM": [
+      -3672.7649,
+      1793.7021,
+      5792.2728
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "31324",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-14T12:46:10.041763Z",
+    "risk_metrics": {
+      "collision_probability": 6.309079195068525e-12,
+      "miss_distance_km": 98.22417343580649,
+      "energy_joules": 23637668.646284252,
+      "energy_mass_ratio": 1969.8057205236878
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        96.51487267531745,
+        -1.4611318756438545,
+        -18.186057661203897
+      ],
+      "covariance_ric_diagonal": [
+        246.4789614995769,
+        23306.7682153547,
+        1583.6861531457162,
+        0.0016150760063814444,
+        0.0016587359553505124,
+        0.0011631552551077658
+      ],
+      "mahalanobis_distance": 6.162210900207759
+    },
+    "assessment": {
+      "severity_score": 27,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.7519301816579231,
+        -0.6366693427583113,
+        -0.17103552000933864
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 98.22417343580649
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.7684,
+      -4.7434,
+      0.2668
+    ],
+    "R_TARGET_ECI_KM": [
+      888.2217,
+      680.2652,
+      -7024.4858
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "31367",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-14T13:36:10.049325Z",
+    "risk_metrics": {
+      "collision_probability": 1.1028329927960269e-11,
+      "miss_distance_km": 92.88095381226894,
+      "energy_joules": 127151345.78539437,
+      "energy_mass_ratio": 10595.945482116198
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        83.57274466073173,
+        12.128504817306325,
+        38.66997933598556
+      ],
+      "covariance_ric_diagonal": [
+        397.8086787015465,
+        29640.526066101764,
+        10520.999485196673,
+        0.002510675159182594,
+        0.0017594544839336168,
+        0.001555518105330906
+      ],
+      "mahalanobis_distance": 4.203950951259609
+    },
+    "assessment": {
+      "severity_score": 30,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.8784304301141667,
+        0.44688481935228924,
+        0.16927473921862707
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 92.88095381226894
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.7707,
+      4.7709,
+      -0.4263
+    ],
+    "R_TARGET_ECI_KM": [
+      -997.6455,
+      -585.2892,
+      6992.7502
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "31427",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-14T10:50:10.056134Z",
+    "risk_metrics": {
+      "collision_probability": 6.391379734392382e-23,
+      "miss_distance_km": 77.58682491556104,
+      "energy_joules": 821082844.7691569,
+      "energy_mass_ratio": 68423.57039742975
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -42.28223326561867,
+        49.367453235412555,
+        -42.36487591860842
+      ],
+      "covariance_ric_diagonal": [
+        34.35762223377528,
+        3216.6236481836545,
+        247.58837158257023,
+        0.0004521568297530078,
+        0.0007156263667000604,
+        0.00043710101104159257
+      ],
+      "mahalanobis_distance": 8.40746755829492
+    },
+    "assessment": {
+      "severity_score": -81,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.370251379009529,
+        0.3673368018630192,
+        0.8532160278634429
+      ],
+      "impact_location": "-Z",
+      "miss_distance_km": 77.58682491556104
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      3.6585,
+      -1.726,
+      -6.3
+    ],
+    "R_TARGET_ECI_KM": [
+      -4323.9732,
+      4264.0674,
+      -3690.6932
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "31433",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-15T05:19:10.064258Z",
+    "risk_metrics": {
+      "collision_probability": 1.1168612634126656e-12,
+      "miss_distance_km": 51.604450883277245,
+      "energy_joules": 95039558.073424,
+      "energy_mass_ratio": 7919.963172785333
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        15.3976504426319,
+        -9.585463261574654,
+        -48.31201305961172
+      ],
+      "covariance_ric_diagonal": [
+        10005.396539117766,
+        801695.8905360753,
+        207415.95372880678,
+        0.03186314036178431,
+        0.014387347044830943,
+        0.010084717365253197
+      ],
+      "mahalanobis_distance": 0.15718470703721757
+    },
+    "assessment": {
+      "severity_score": 20,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.8368629467282916,
+        -0.5243457710628527,
+        -0.15723205895558523
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 51.604450883277245
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8267,
+      -4.671,
+      0.273
+    ],
+    "R_TARGET_ECI_KM": [
+      884.1456,
+      687.7588,
+      -7024.3825
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "31558",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-15T06:09:10.070616Z",
+    "risk_metrics": {
+      "collision_probability": 1.0465955854907693e-12,
+      "miss_distance_km": 30.830693052143587,
+      "energy_joules": 124495889.18113077,
+      "energy_mass_ratio": 10374.657431760897
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        10.21185856187518,
+        19.85243837039022,
+        21.263355086571114
+      ],
+      "covariance_ric_diagonal": [
+        10857.547840802004,
+        816979.9034475144,
+        279628.1104156837,
+        0.02242704131615817,
+        0.021682148554897907,
+        0.01953020044960731
+      ],
+      "mahalanobis_distance": 0.09117983964403756
+    },
+    "assessment": {
+      "severity_score": 20,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.8668041772034195,
+        0.479403300795332,
+        0.1371969140367684
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 30.830693052143587
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.8294,
+      4.6986,
+      -0.433
+    ],
+    "R_TARGET_ECI_KM": [
+      -995.3295,
+      -593.6432,
+      6992.2689
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "31741",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-14T21:02:10.077625Z",
+    "risk_metrics": {
+      "collision_probability": 3.114600238298046e-12,
+      "miss_distance_km": 66.58681704831966,
+      "energy_joules": 13936539.593240678,
+      "energy_mass_ratio": 1161.3782994367232
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        10.151659233069648,
+        43.14749785945218,
+        -49.68945006649395
+      ],
+      "covariance_ric_diagonal": [
+        3341.891022199162,
+        323259.0372804149,
+        13987.252355385855,
+        0.008599792328187066,
+        0.013709579432442671,
+        0.004790975407872056
+      ],
+      "mahalanobis_distance": 0.11840671262375908
+    },
+    "assessment": {
+      "severity_score": 24,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.7112885162393027,
+        -0.6991953053069494,
+        -0.07207336999620637
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 66.58681704831966
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8241,
+      -4.6823,
+      0.037
+    ],
+    "R_TARGET_ECI_KM": [
+      711.8497,
+      824.8661,
+      -7029.0398
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "31887",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-14T20:58:10.083517Z",
+    "risk_metrics": {
+      "collision_probability": 5.3607681774356056e-12,
+      "miss_distance_km": 50.56229532375675,
+      "energy_joules": 583914402.8711172,
+      "energy_mass_ratio": 48659.5335725931
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -43.80851352182339,
+        5.662176431970353,
+        24.602837427180006
+      ],
+      "covariance_ric_diagonal": [
+        3302.0466172468255,
+        190218.5788188036,
+        143078.29434994946,
+        0.010960435162367707,
+        0.00897627259847429,
+        0.005923167855799991
+      ],
+      "mahalanobis_distance": 0.7628391816257035
+    },
+    "assessment": {
+      "severity_score": 27,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.30179005533944947,
+        0.91021788122581,
+        0.2835950828810459
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 50.56229532375675
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8265,
+      -4.3185,
+      -1.8089
+    ],
+    "R_TARGET_ECI_KM": [
+      -693.6664,
+      1910.7243,
+      -6815.3011
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "31956",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-14T23:32:10.090888Z",
+    "risk_metrics": {
+      "collision_probability": 2.1392634420376837e-12,
+      "miss_distance_km": 93.92878268791218,
+      "energy_joules": 133532717.95182773,
+      "energy_mass_ratio": 11127.726495985644
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        25.55998010837236,
+        90.26274522442864,
+        4.684064329460119
+      ],
+      "covariance_ric_diagonal": [
+        4988.68357029713,
+        366541.10093930486,
+        135620.31884839805,
+        0.013825449987489837,
+        0.01059070423289292,
+        0.010012257214787832
+      ],
+      "mahalanobis_distance": 0.3811342166836281
+    },
+    "assessment": {
+      "severity_score": 23,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.875343801801774,
+        0.45789943804459304,
+        0.15524604004487258
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 93.92878268791218
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.7922,
+      4.7351,
+      -0.524
+    ],
+    "R_TARGET_ECI_KM": [
+      -1065.8518,
+      -533.5208,
+      6986.7353
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "32425",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-14T11:17:10.098763Z",
+    "risk_metrics": {
+      "collision_probability": 1.3413159871915623e-12,
+      "miss_distance_km": 68.81737922883535,
+      "energy_joules": 816756281.0641133,
+      "energy_mass_ratio": 68063.02342200944
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -41.16945592615022,
+        48.00038994152828,
+        -27.145352238115144
+      ],
+      "covariance_ric_diagonal": [
+        66.59884018097647,
+        6084.209389698075,
+        619.5138981209471,
+        0.0006389437442974581,
+        0.0008048552476668452,
+        0.0005992079166206063
+      ],
+      "mahalanobis_distance": 5.024419952608927
+    },
+    "assessment": {
+      "severity_score": 21,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.6528104333243314,
+        0.3863439226259467,
+        -0.6515956656217236
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 68.81737922883535
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      4.0265,
+      -4.2156,
+      4.6811
+    ],
+    "R_TARGET_ECI_KM": [
+      4024.5078,
+      -2192.6611,
+      -5440.1783
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "33272",
+    "debris_name": "COSMOS 2441",
+    "impact_time": "2026-01-15T08:43:10.105584Z",
+    "risk_metrics": {
+      "collision_probability": 6.581272461699877e-11,
+      "miss_distance_km": 27.371628452697912,
+      "energy_joules": 39805080.67385407,
+      "energy_mass_ratio": 3317.090056154506
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -1.495834561628337,
+        -26.89048204069602,
+        4.885744440285964
+      ],
+      "covariance_ric_diagonal": [
+        13761.308392800562,
+        1374822.1178858436,
+        14066.874197356283,
+        0.03249387049847695,
+        0.012356751733448516,
+        0.008683228424290153
+      ],
+      "mahalanobis_distance": 0.023990364382315745
+    },
+    "assessment": {
+      "severity_score": 38,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.6413195592858154,
+        0.7671477049048014,
+        0.013914360452172612
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 27.371628452697912
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.1944,
+      -4.631,
+      2.725
+    ],
+    "R_TARGET_ECI_KM": [
+      2688.0715,
+      -829.9763,
+      -6533.7571
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "33822",
+    "debris_name": "COSMOS 2251 DEB",
+    "impact_time": "2026-01-15T05:33:10.112678Z",
+    "risk_metrics": {
+      "collision_probability": 6.271829430177818e-12,
+      "miss_distance_km": 98.82807468606623,
+      "energy_joules": 840457128.5488708,
+      "energy_mass_ratio": 70038.09404573923
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        39.58523478467941,
+        52.71376420301809,
+        73.62918305091469
+      ],
+      "covariance_ric_diagonal": [
+        10270.905427964142,
+        1009385.0411247695,
+        23828.686503266454,
+        0.01241281192491293,
+        0.02803956019724399,
+        0.007681327986306614
+      ],
+      "mahalanobis_distance": 0.6695778692117366
+    },
+    "assessment": {
+      "severity_score": 27,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.34040801357077594,
+        0.5292439416818181,
+        -0.7771893169337457
+      ],
+      "impact_location": "+Z",
+      "miss_distance_km": 98.82807468606623
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      2.9828,
+      -3.5241,
+      5.8847
+    ],
+    "R_TARGET_ECI_KM": [
+      4845.5609,
+      -2996.8326,
+      -4257.4523
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "34007",
+    "debris_name": "COSMOS 2251 DEB",
+    "impact_time": "2026-01-14T22:32:10.123549Z",
+    "risk_metrics": {
+      "collision_probability": 2.4060109869761107e-12,
+      "miss_distance_km": 91.06886529556337,
+      "energy_joules": 121763935.79184544,
+      "energy_mass_ratio": 10146.994649320453
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -17.845929271861806,
+        -78.26917622349843,
+        -42.99996613882529
+      ],
+      "covariance_ric_diagonal": [
+        4311.091778777334,
+        323249.05784480565,
+        108999.4246544171,
+        0.010087344973849026,
+        0.01676951539803219,
+        0.006384149163529898
+      ],
+      "mahalanobis_distance": 0.30005677871560615
+    },
+    "assessment": {
+      "severity_score": 23,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.8445540906326948,
+        -0.5327689504739568,
+        0.053718088708987075
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 91.06886529556337
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.2696,
+      -3.4148,
+      -4.0626
+    ],
+    "R_TARGET_ECI_KM": [
+      -2477.4067,
+      3149.5879,
+      -5873.3184
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "34015",
+    "debris_name": "COSMOS 2251 DEB",
+    "impact_time": "2026-01-14T16:08:10.129209Z",
+    "risk_metrics": {
+      "collision_probability": 1.805545800954223e-11,
+      "miss_distance_km": 54.07446789938604,
+      "energy_joules": 730333997.1420338,
+      "energy_mass_ratio": 60861.16642850282
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -41.294480207611905,
+        -11.54337700444557,
+        32.947904794055084
+      ],
+      "covariance_ric_diagonal": [
+        1078.5985383673676,
+        82764.14460684174,
+        26149.70742079092,
+        0.004767154191457056,
+        0.0025745881685640126,
+        0.002448127569822659
+      ],
+      "mahalanobis_distance": 1.2853958611357101
+    },
+    "assessment": {
+      "severity_score": 32,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.44763674573795986,
+        0.877215639461769,
+        -0.17353404739449865
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 54.07446789938604
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.4501,
+      -4.773,
+      1.8331
+    ],
+    "R_TARGET_ECI_KM": [
+      2037.2963,
+      -291.1608,
+      -6809.3282
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "34129",
+    "debris_name": "COSMOS 2251 DEB",
+    "impact_time": "2026-01-14T15:56:10.135944Z",
+    "risk_metrics": {
+      "collision_probability": 8.221452947356084e-12,
+      "miss_distance_km": 79.33254505277388,
+      "energy_joules": 157732960.62154463,
+      "energy_mass_ratio": 13144.413385128719
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -78.6048798575266,
+        9.60499686506919,
+        -4.7612605847839555
+      ],
+      "covariance_ric_diagonal": [
+        1012.5527300501134,
+        70891.8524537327,
+        31372.69156621717,
+        0.0037098418105255687,
+        0.00501512935083645,
+        0.0028276097019885498
+      ],
+      "mahalanobis_distance": 2.4711395224389054
+    },
+    "assessment": {
+      "severity_score": 29,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.870637020329978,
+        -0.4869135819730666,
+        0.07004528686427479
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 79.33254505277388
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.4323,
+      -3.6818,
+      -3.5851
+    ],
+    "R_TARGET_ECI_KM": [
+      -2078.3858,
+      2906.5762,
+      -6147.4679
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "34145",
+    "debris_name": "IRIDIUM 33 DEB",
+    "impact_time": "2026-01-14T19:51:10.142631Z",
+    "risk_metrics": {
+      "collision_probability": 3.518692558121702e-12,
+      "miss_distance_km": 89.65206171053403,
+      "energy_joules": 10863236.864430493,
+      "energy_mass_ratio": 905.2697387025411
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -9.804608887539375,
+        83.0691988563908,
+        32.26251718123043
+      ],
+      "covariance_ric_diagonal": [
+        2693.4811493981224,
+        261208.5843756102,
+        9370.275454991852,
+        0.010802381383096908,
+        0.005192923276927328,
+        0.0037471419411873315
+      ],
+      "mahalanobis_distance": 0.2589168758465477
+    },
+    "assessment": {
+      "severity_score": 25,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.6177569723132602,
+        0.7848198382873722,
+        0.049337038933696564
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 89.65206171053403
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -1.9901,
+      0.1669,
+      7.2209
+    ],
+    "R_TARGET_ECI_KM": [
+      5252.0706,
+      -4529.2138,
+      1537.4278
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "34481",
+    "debris_name": "COSMOS 2251 DEB",
+    "impact_time": "2026-01-15T03:00:10.151248Z",
+    "risk_metrics": {
+      "collision_probability": 1.402181853514104e-12,
+      "miss_distance_km": 75.73391709034514,
+      "energy_joules": 98655094.99720913,
+      "energy_mass_ratio": 8221.257916434095
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        25.008648686831854,
+        -45.79178247350368,
+        -54.89359112505956
+      ],
+      "covariance_ric_diagonal": [
+        7810.1960400350445,
+        619199.1909366187,
+        165792.94412534664,
+        0.016136365792080613,
+        0.013783068958758792,
+        0.009666941541686394
+      ],
+      "mahalanobis_distance": 0.3000638074852785
+    },
+    "assessment": {
+      "severity_score": 21,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.3940947965553872,
+        -0.9163452068511928,
+        0.0707160011443613
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 75.73391709034514
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -4.1738,
+      4.225,
+      -4.5821
+    ],
+    "R_TARGET_ECI_KM": [
+      -3965.5801,
+      2064.6299,
+      5502.3891
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "34564",
+    "debris_name": "COSMOS 2251 DEB",
+    "impact_time": "2026-01-15T07:43:10.157682Z",
+    "risk_metrics": {
+      "collision_probability": 2.5528711859098637e-12,
+      "miss_distance_km": 67.29006011960156,
+      "energy_joules": 768346633.1333586,
+      "energy_mass_ratio": 64028.88609444655
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        51.545048244002466,
+        36.7237580147541,
+        -22.85663557256044
+      ],
+      "covariance_ric_diagonal": [
+        12586.955233700002,
+        1055490.4090763216,
+        215423.87908597835,
+        0.019210293071425,
+        0.04428807796576837,
+        0.0181605190622258
+      ],
+      "mahalanobis_distance": 0.46827032700810756
+    },
+    "assessment": {
+      "severity_score": 24,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.9280952996686117,
+        -0.3064333915550009,
+        -0.21151286280752826
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 67.29006011960156
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.8556,
+      4.223,
+      2.0269
+    ],
+    "R_TARGET_ECI_KM": [
+      881.3801,
+      -2025.3093,
+      6736.4725
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "34926",
+    "debris_name": "IRIDIUM 33 DEB",
+    "impact_time": "2026-01-14T21:57:10.164642Z",
+    "risk_metrics": {
+      "collision_probability": 2.791607743319982e-12,
+      "miss_distance_km": 66.56738855950643,
+      "energy_joules": 73230340.88710442,
+      "energy_mass_ratio": 6102.528407258702
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -31.688481811194528,
+        22.87738469774114,
+        -53.88582939442855
+      ],
+      "covariance_ric_diagonal": [
+        3900.7536451283286,
+        329310.9390921386,
+        64611.95291073276,
+        0.011799285099136055,
+        0.0052372590189836065,
+        0.004761644853897202
+      ],
+      "mahalanobis_distance": 0.5154137705770656
+    },
+    "assessment": {
+      "severity_score": 24,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.38621253139611367,
+        -0.9205364975119653,
+        -0.0587574411221611
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 66.56738855950643
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.2704,
+      4.7188,
+      -2.4928
+    ],
+    "R_TARGET_ECI_KM": [
+      -2501.2293,
+      695.487,
+      6595.3113
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "34985",
+    "debris_name": "IRIDIUM 33 DEB",
+    "impact_time": "2026-01-15T04:30:10.172504Z",
+    "risk_metrics": {
+      "collision_probability": 1.5072174964107836e-12,
+      "miss_distance_km": 75.20415326648354,
+      "energy_joules": 364038836.0699574,
+      "energy_mass_ratio": 30336.569672496447
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        17.8405766512054,
+        65.34915450679348,
+        -32.66292238193704
+      ],
+      "covariance_ric_diagonal": [
+        9182.27305321389,
+        472511.96153031575,
+        454404.2261384703,
+        0.02385805465569253,
+        0.009610567754797624,
+        0.022759532407869907
+      ],
+      "mahalanobis_distance": 0.19123300871736507
+    },
+    "assessment": {
+      "severity_score": 21,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.04300550789001005,
+        -0.9970683019862755,
+        -0.06328765489256877
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 75.20415326648354
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.8025,
+      4.7169,
+      -0.5728
+    ],
+    "R_TARGET_ECI_KM": [
+      -1100.2012,
+      -507.9993,
+      6983.2705
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "35233",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-15T08:26:10.182226Z",
+    "risk_metrics": {
+      "collision_probability": 2.7600002680278506e-12,
+      "miss_distance_km": 98.82028805879048,
+      "energy_joules": 790755095.3640122,
+      "energy_mass_ratio": 65896.25794700102
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        50.43136134783092,
+        70.20395410809357,
+        -47.890833697227755
+      ],
+      "covariance_ric_diagonal": [
+        13435.63878878284,
+        1196231.415552971,
+        158687.50022824627,
+        0.022092696176496045,
+        0.05143174244144548,
+        0.01141867769901573
+      ],
+      "mahalanobis_distance": 0.4803321143728553
+    },
+    "assessment": {
+      "severity_score": 24,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.4990233276320869,
+        0.5755962439122025,
+        0.6478153149895957
+      ],
+      "impact_location": "-Z",
+      "miss_distance_km": 98.82028805879048
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      4.9646,
+      -2.9819,
+      -4.7352
+    ],
+    "R_TARGET_ECI_KM": [
+      -3053.2975,
+      3472.9449,
+      -5399.9659
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "35459",
+    "debris_name": "COSMOS 2251 DEB",
+    "impact_time": "2026-01-15T06:16:10.191225Z",
+    "risk_metrics": {
+      "collision_probability": 4.414444945360851e-12,
+      "miss_distance_km": 97.51254465543506,
+      "energy_joules": 827624283.8103648,
+      "energy_mass_ratio": 68968.6903175304
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        38.190358220793584,
+        29.61624062899171,
+        -84.69398559019017
+      ],
+      "covariance_ric_diagonal": [
+        11012.051768579819,
+        1050845.6931537369,
+        58269.607307683444,
+        0.024819818998958573,
+        0.021961885739168314,
+        0.008565160310919726
+      ],
+      "mahalanobis_distance": 0.5677456543436985
+    },
+    "assessment": {
+      "severity_score": 26,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.5416340213692912,
+        -0.7096590624490852,
+        0.4505736364283119
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 97.51254465543506
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -4.8149,
+      4.513,
+      -3.5656
+    ],
+    "R_TARGET_ECI_KM": [
+      -3268.0241,
+      1373.1307,
+      6138.6204
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "35516",
+    "debris_name": "SL-3 DEB",
+    "impact_time": "2026-01-15T05:18:10.199294Z",
+    "risk_metrics": {
+      "collision_probability": 7.527644243416428e-12,
+      "miss_distance_km": 80.41998049767399,
+      "energy_joules": 838427700.3400211,
+      "energy_mass_ratio": 69868.97502833509
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        73.18052231069197,
+        31.494492412498747,
+        -10.958164319795456
+      ],
+      "covariance_ric_diagonal": [
+        9983.254773156967,
+        993536.2513341649,
+        13868.222678677996,
+        0.028517206011919455,
+        0.013452757559304196,
+        0.007343542092779806
+      ],
+      "mahalanobis_distance": 0.7399369220398845
+    },
+    "assessment": {
+      "severity_score": 28,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.7579571735372472,
+        0.6514891861268154,
+        0.03260005075358614
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 80.41998049767399
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8736,
+      -4.6163,
+      -0.1928
+    ],
+    "R_TARGET_ECI_KM": [
+      533.019,
+      966.4676,
+      -7026.7895
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "36162",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-15T09:34:10.209905Z",
+    "risk_metrics": {
+      "collision_probability": 2.2344912951915168e-12,
+      "miss_distance_km": 62.26567800809535,
+      "energy_joules": 777181000.1759428,
+      "energy_mass_ratio": 64765.083347995234
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        16.388532523743212,
+        54.4477978683436,
+        25.374553529353342
+      ],
+      "covariance_ric_diagonal": [
+        14835.800911309409,
+        1233682.4527027542,
+        259566.1837799369,
+        0.03133148911525662,
+        0.013134104694920197,
+        0.009954681823480867
+      ],
+      "mahalanobis_distance": 0.1420995274865038
+    },
+    "assessment": {
+      "severity_score": 23,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.8099784938169239,
+        -0.33923543375833765,
+        0.4783870398511704
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 62.26567800809535
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -4.9535,
+      4.5522,
+      -3.3172
+    ],
+    "R_TARGET_ECI_KM": [
+      -3096.2822,
+      1202.731,
+      6261.9115
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "36246",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-15T07:40:10.216544Z",
+    "risk_metrics": {
+      "collision_probability": 2.4390921865935945e-12,
+      "miss_distance_km": 42.072437165859476,
+      "energy_joules": 760634910.9949718,
+      "energy_mass_ratio": 63386.24258291431
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        32.85254191410834,
+        -0.014185125464906386,
+        -26.283079302835958
+      ],
+      "covariance_ric_diagonal": [
+        12529.528029085981,
+        1017506.4791301728,
+        247646.5849827408,
+        0.016292284389920322,
+        0.038049520226635006,
+        0.009925137201065842
+      ],
+      "mahalanobis_distance": 0.3016234482247612
+    },
+    "assessment": {
+      "severity_score": 23,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.503485188529693,
+        -0.7256464512683101,
+        -0.46897749685046297
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 42.072437165859476
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.5746,
+      3.7435,
+      3.336
+    ],
+    "R_TARGET_ECI_KM": [
+      1913.2015,
+      -2744.464,
+      6252.3504
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "36344",
+    "debris_name": "METEOR 2-8 DEB",
+    "impact_time": "2026-01-14T15:22:10.225412Z",
+    "risk_metrics": {
+      "collision_probability": 5.725454928770223e-11,
+      "miss_distance_km": 78.64367653973481,
+      "energy_joules": 847162688.5264721,
+      "energy_mass_ratio": 70596.89071053934
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -2.953151459575617,
+        70.45754579378547,
+        -34.81150667322323
+      ],
+      "covariance_ric_diagonal": [
+        841.2034062315994,
+        83655.92139529173,
+        901.7377364766894,
+        0.003145203980795467,
+        0.0026802033390546827,
+        0.0020719881582992182
+      ],
+      "mahalanobis_distance": 1.2316299450384671
+    },
+    "assessment": {
+      "severity_score": 37,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.6536203488185689,
+        -0.5963906807844433,
+        0.46593840295723965
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 78.64367653973481
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -4.8306,
+      4.5959,
+      -3.436
+    ],
+    "R_TARGET_ECI_KM": [
+      -3162.082,
+      1323.9171,
+      6204.4471
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "36482",
+    "debris_name": "IRIDIUM 33 DEB",
+    "impact_time": "2026-01-14T20:45:10.230797Z",
+    "risk_metrics": {
+      "collision_probability": 2.919075703075126e-12,
+      "miss_distance_km": 96.59855753110807,
+      "energy_joules": 13009250.599886773,
+      "energy_mass_ratio": 1084.104216657231
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -27.24526697550028,
+        -86.80817693441233,
+        -32.454848048454544
+      ],
+      "covariance_ric_diagonal": [
+        3201.107631099186,
+        307941.6978154646,
+        12653.318905436256,
+        0.0063595493065222684,
+        0.016300309989568006,
+        0.004538019402335828
+      ],
+      "mahalanobis_distance": 0.4787312925523789
+    },
+    "assessment": {
+      "severity_score": 24,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.7039917681322966,
+        -0.7061097887777978,
+        -0.07618763362580008
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 96.59855753110807
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      3.4371,
+      -1.473,
+      -6.4871
+    ],
+    "R_TARGET_ECI_KM": [
+      -4524.9919,
+      4306.7166,
+      -3386.9996
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "36878",
+    "debris_name": "METEOR 2-7 DEB",
+    "impact_time": "2026-01-14T18:33:10.241243Z",
+    "risk_metrics": {
+      "collision_probability": 3.218736345222156e-11,
+      "miss_distance_km": 23.780241688730126,
+      "energy_joules": 836069133.3950847,
+      "energy_mass_ratio": 69672.42778292373
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        14.213828174139751,
+        4.1301091088662645,
+        18.61207087240184
+      ],
+      "covariance_ric_diagonal": [
+        2037.8209952235825,
+        199134.78409058836,
+        6682.320090188034,
+        0.00870030753144135,
+        0.0049146601325823075,
+        0.003281068421279729
+      ],
+      "mahalanobis_distance": 0.4253991185504798
+    },
+    "assessment": {
+      "severity_score": 35,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.7072883479476647,
+        -0.7067340593773567,
+        -0.01643660668040807
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 23.780241688730126
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.8389,
+      4.7063,
+      -0.0062
+    ],
+    "R_TARGET_ECI_KM": [
+      -682.9334,
+      -843.1616,
+      7004.3402
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "36945",
+    "debris_name": "COSMOS 1818 COOLANT",
+    "impact_time": "2026-01-14T10:06:10.249460Z",
+    "risk_metrics": {
+      "collision_probability": 4.292601896179275e-20,
+      "miss_distance_km": 54.901595919819876,
+      "energy_joules": 794800736.9504536,
+      "energy_mass_ratio": 66233.39474587113
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        20.72976965880754,
+        50.82400355382319,
+        -1.175817671636848
+      ],
+      "covariance_ric_diagonal": [
+        4.553766058920195,
+        401.4106749525471,
+        55.12600898853302,
+        0.00015213349476463886,
+        0.0003471929880906333,
+        0.00017699957339452398
+      ],
+      "mahalanobis_distance": 10.047085781656737
+    },
+    "assessment": {
+      "severity_score": -53,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.8031209372899273,
+        -0.22557912148190815,
+        -0.5514624374336453
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 54.901595919819876
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.0186,
+      3.1851,
+      4.5686
+    ],
+    "R_TARGET_ECI_KM": [
+      2856.6232,
+      -3434.3454,
+      5510.6169
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "37136",
+    "debris_name": "IRIDIUM 33 DEB",
+    "impact_time": "2026-01-15T01:32:10.258333Z",
+    "risk_metrics": {
+      "collision_probability": 1.567107185204927e-12,
+      "miss_distance_km": 95.4796417467463,
+      "energy_joules": 10426359.492720222,
+      "energy_mass_ratio": 868.8632910600185
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        74.69809785080759,
+        15.203012035528591,
+        -57.49282207898448
+      ],
+      "covariance_ric_diagonal": [
+        6511.766621205632,
+        635473.7216818436,
+        22208.713214950643,
+        0.018611255018086238,
+        0.006780704879048734,
+        0.00589713196701969
+      ],
+      "mahalanobis_distance": 0.8946753426170768
+    },
+    "assessment": {
+      "severity_score": 21,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.5713706821997937,
+        -0.8201544193308679,
+        -0.029703043143204554
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 95.4796417467463
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -0.3956,
+      1.7554,
+      -7.279
+    ],
+    "R_TARGET_ECI_KM": [
+      -5579.771,
+      4189.9451,
+      1300.4193
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "37422",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-14T20:44:10.265863Z",
+    "risk_metrics": {
+      "collision_probability": 8.11959512225472e-12,
+      "miss_distance_km": 99.66498666008194,
+      "energy_joules": 821361357.616068,
+      "energy_mass_ratio": 68446.779801339
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        8.861185297269028,
+        43.8636119492299,
+        -89.05376189611056
+      ],
+      "covariance_ric_diagonal": [
+        3165.3230316157355,
+        298449.6500367744,
+        21206.602465609812,
+        0.010954394409120648,
+        0.008878278196396265,
+        0.004147361756677183
+      ],
+      "mahalanobis_distance": 0.8669004521109024
+    },
+    "assessment": {
+      "severity_score": 29,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.3057030998932804,
+        0.2891501523740662,
+        0.9071591943877308
+      ],
+      "impact_location": "-Z",
+      "miss_distance_km": 99.66498666008194
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      3.1288,
+      -1.1832,
+      -6.7003
+    ],
+    "R_TARGET_ECI_KM": [
+      -4722.0371,
+      4386.4316,
+      -2991.2475
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "37591",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-15T09:27:10.277871Z",
+    "risk_metrics": {
+      "collision_probability": 7.141967356797057e-13,
+      "miss_distance_km": 67.57803543694398,
+      "energy_joules": 2369104.812378065,
+      "energy_mass_ratio": 197.42540103150543
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        7.036579003472325,
+        64.36960269292575,
+        -19.334727269854024
+      ],
+      "covariance_ric_diagonal": [
+        14696.375877852064,
+        1456003.4103698386,
+        22687.103820309847,
+        0.03166454914485682,
+        0.022644666645095356,
+        0.009080692283443787
+      ],
+      "mahalanobis_distance": 0.06857338893876157
+    },
+    "assessment": {
+      "severity_score": 18,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.5194925975957648,
+        -0.8235095043747678,
+        -0.22794634176645498
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 67.57803543694398
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.8767,
+      4.6568,
+      -0.153
+    ],
+    "R_TARGET_ECI_KM": [
+      -783.9163,
+      -763.4725,
+      7002.7458
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "37593",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-15T00:22:10.284608Z",
+    "risk_metrics": {
+      "collision_probability": 2.001783861374381e-12,
+      "miss_distance_km": 96.22928984571375,
+      "energy_joules": 224018842.29515046,
+      "energy_mass_ratio": 18668.236857929205
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        86.78498725882275,
+        38.91591563842207,
+        14.628524215366904
+      ],
+      "covariance_ric_diagonal": [
+        5593.535681752837,
+        341600.11759185325,
+        222821.0909843939,
+        0.014477741530954182,
+        0.009170210704407098,
+        0.015280333127298111
+      ],
+      "mahalanobis_distance": 1.159448091720238
+    },
+    "assessment": {
+      "severity_score": 23,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.9310888853229089,
+        -0.3268592936641079,
+        -0.16197681782926082
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 96.22928984571375
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.7473,
+      -4.726,
+      0.6896
+    ],
+    "R_TARGET_ECI_KM": [
+      1197.4884,
+      431.1349,
+      -6998.4673
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "37765",
+    "debris_name": "SJ-11-02",
+    "impact_time": "2026-01-15T08:38:10.292770Z",
+    "risk_metrics": {
+      "collision_probability": 7.4712979138318e-11,
+      "miss_distance_km": 75.76386567508571,
+      "energy_joules": 76461824625.4317,
+      "energy_mass_ratio": 6371818.718785975
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -44.051063069963426,
+        45.16734953334491,
+        -41.94732077941549
+      ],
+      "covariance_ric_diagonal": [
+        13653.63846234856,
+        891949.8689133734,
+        486915.74501027813,
+        0.027868085144047174,
+        0.014996992477384648,
+        0.014619845245173095
+      ],
+      "mahalanobis_distance": 0.3775482698840934
+    },
+    "assessment": {
+      "severity_score": 38,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.9069662848268151,
+        -0.3878054883348489,
+        -0.16437475817151867
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 75.76386567508571
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8131,
+      -4.6731,
+      0.4604
+    ],
+    "R_TARGET_ECI_KM": [
+      1023.1479,
+      577.2983,
+      -7015.5432
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "37908",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-15T09:24:10.298911Z",
+    "risk_metrics": {
+      "collision_probability": 1.025096984969776e-12,
+      "miss_distance_km": 55.92917064556205,
+      "energy_joules": 430166163.372848,
+      "energy_mass_ratio": 35847.180281070665
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        8.902262620770497,
+        46.45363035643049,
+        -29.847647747173518
+      ],
+      "covariance_ric_diagonal": [
+        14592.805706213023,
+        736378.4037172499,
+        736138.7637905371,
+        0.031895085866497204,
+        0.024281560241237763,
+        0.032847991617123526
+      ],
+      "mahalanobis_distance": 0.07770465659374988
+    },
+    "assessment": {
+      "severity_score": 20,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.13208160611703748,
+        -0.966554181331831,
+        -0.21983508293324486
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 55.92917064556205
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.9272,
+      4.4209,
+      1.2488
+    ],
+    "R_TARGET_ECI_KM": [
+      281.639,
+      -1582.9276,
+      6903.8223
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "38277",
+    "debris_name": "METEOR 2-5 DEB",
+    "impact_time": "2026-01-15T08:34:10.309257Z",
+    "risk_metrics": {
+      "collision_probability": 1.0236100795283788e-12,
+      "miss_distance_km": 94.36351073387927,
+      "energy_joules": 366432654.12091976,
+      "energy_mass_ratio": 30536.054510076647
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        22.58545658281587,
+        82.39746924873967,
+        -40.062780362472196
+      ],
+      "covariance_ric_diagonal": [
+        13584.141437664952,
+        696653.9917003573,
+        674202.7191759779,
+        0.02241078418370297,
+        0.0246571044616076,
+        0.0390271160373387
+      ],
+      "mahalanobis_distance": 0.1983908467904529
+    },
+    "assessment": {
+      "severity_score": 20,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.9805958195981453,
+        -0.1959405375219265,
+        0.0062565277430090774
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 94.36351073387927
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8973,
+      -4.3745,
+      -1.395
+    ],
+    "R_TARGET_ECI_KM": [
+      -389.5835,
+      1668.7992,
+      -6902.8166
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "38725",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-14T15:35:10.321260Z",
+    "risk_metrics": {
+      "collision_probability": 2.7824326484075313e-11,
+      "miss_distance_km": 72.89131185779301,
+      "energy_joules": 822162962.6008761,
+      "energy_mass_ratio": 68513.58021673968
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        50.06476043998506,
+        47.78226712585342,
+        22.88051692489774
+      ],
+      "covariance_ric_diagonal": [
+        904.7368128504464,
+        85827.07690502315,
+        5302.353054126416,
+        0.003232517748577603,
+        0.002776099572297088,
+        0.00219285193030246
+      ],
+      "mahalanobis_distance": 1.6974119276083517
+    },
+    "assessment": {
+      "severity_score": 34,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.20547287833463435,
+        -0.15235956527923178,
+        0.9667302927918281
+      ],
+      "impact_location": "-Z",
+      "miss_distance_km": 72.89131185779301
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -0.8297,
+      2.0953,
+      -7.1523
+    ],
+    "R_TARGET_ECI_KM": [
+      -5503.9346,
+      4092.0892,
+      1823.9564
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "38818",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-15T00:17:10.330206Z",
+    "risk_metrics": {
+      "collision_probability": 3.278194366037448e-12,
+      "miss_distance_km": 77.02849729035258,
+      "energy_joules": 575858775.7541403,
+      "energy_mass_ratio": 47988.23131284502
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        20.18268829178962,
+        35.14171622779451,
+        65.50655134176638
+      ],
+      "covariance_ric_diagonal": [
+        5554.465451355848,
+        315944.8937683891,
+        242063.68094825477,
+        0.010087547464248833,
+        0.014157317497300679,
+        0.017650382621439024
+      ],
+      "mahalanobis_distance": 0.28770395847195146
+    },
+    "assessment": {
+      "severity_score": 25,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.30097528807565216,
+        0.9161152352119986,
+        0.26485232039463164
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 77.02849729035258
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.854,
+      -4.3533,
+      -1.6263
+    ],
+    "R_TARGET_ECI_KM": [
+      -557.2495,
+      1804.407,
+      -6856.8268
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "38822",
+    "debris_name": "FENGYUN 1C DEB",
+    "impact_time": "2026-01-14T14:25:10.337869Z",
+    "risk_metrics": {
+      "collision_probability": 9.615593437712625e-12,
+      "miss_distance_km": 88.12812006605878,
+      "energy_joules": 12076842.722889928,
+      "energy_mass_ratio": 1006.4035602408273
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        85.30516082218274,
+        -3.9551256186729495,
+        21.770440161368562
+      ],
+      "covariance_ric_diagonal": [
+        580.8150336679598,
+        56448.37269423204,
+        2206.6737840999936,
+        0.0025353386964689683,
+        0.0032221078789816536,
+        0.0017887379030970495
+      ],
+      "mahalanobis_distance": 3.566445585750881
+    },
+    "assessment": {
+      "severity_score": 29,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.523700880065197,
+        0.8441327800720847,
+        0.11479214567767904
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 88.12812006605878
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.7908,
+      -4.7218,
+      0.1277
+    ],
+    "R_TARGET_ECI_KM": [
+      783.7277,
+      766.1384,
+      -7028.0321
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "39202",
+    "debris_name": "SJ-11-05",
+    "impact_time": "2026-01-14T23:35:10.347777Z",
+    "risk_metrics": {
+      "collision_probability": 3.4887645346772905e-10,
+      "miss_distance_km": 55.123255372014384,
+      "energy_joules": 256993905825.09283,
+      "energy_mass_ratio": 21416158.818757735
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -40.868691552375346,
+        34.26842096982116,
+        13.928340096373242
+      ],
+      "covariance_ric_diagonal": [
+        5012.390959270901,
+        317576.05186877213,
+        188229.98858395702,
+        0.012159480750708444,
+        0.0060887858579428186,
+        0.007285847283616733
+      ],
+      "mahalanobis_distance": 0.5766275365013511
+    },
+    "assessment": {
+      "severity_score": 45,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.939013546368096,
+        -0.16852460896619548,
+        0.29975492615935584
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 55.123255372014384
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.4756,
+      4.7563,
+      -1.9108
+    ],
+    "R_TARGET_ECI_KM": [
+      -2083.0159,
+      323.2828,
+      6766.9474
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "39267",
+    "debris_name": "DANDE",
+    "impact_time": "2026-01-14T16:14:10.355507Z",
+    "risk_metrics": {
+      "collision_probability": 1.1766877083647987e-10,
+      "miss_distance_km": 65.1794965171897,
+      "energy_joules": 3135919878.6099005,
+      "energy_mass_ratio": 261326.65655082505
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -35.96583311085805,
+        -41.8087325421057,
+        34.73982582136711
+      ],
+      "covariance_ric_diagonal": [
+        1115.2292523551785,
+        97668.17000496278,
+        14646.043416682096,
+        0.0029592511614851867,
+        0.003436089460314517,
+        0.0025614444309083302
+      ],
+      "mahalanobis_distance": 1.1034112597856196
+    },
+    "assessment": {
+      "severity_score": 40,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.4086905339172633,
+        0.9106764922276109,
+        0.060335507542005756
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 65.1794965171897
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      4.2752,
+      -4.3229,
+      4.3499
+    ],
+    "R_TARGET_ECI_KM": [
+      3809.0813,
+      -1948.2467,
+      -5683.0313
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "39608",
+    "debris_name": "METEOR 2-5 DEB",
+    "impact_time": "2026-01-14T11:49:10.364115Z",
+    "risk_metrics": {
+      "collision_probability": 4.4752282736024016e-11,
+      "miss_distance_km": 42.19172680412714,
+      "energy_joules": 103627194.80551638,
+      "energy_mass_ratio": 8635.599567126364
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        30.17057997973367,
+        29.48981467980025,
+        -0.4782724658937327
+      ],
+      "covariance_ric_diagonal": [
+        118.06929137960384,
+        9288.060329216238,
+        2628.3722834041596,
+        0.0008290968041966083,
+        0.001312637852360354,
+        0.0009233001886857899
+      ],
+      "mahalanobis_distance": 2.7905336255803297
+    },
+    "assessment": {
+      "severity_score": 36,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.8452181610631755,
+        0.5343797440618336,
+        -0.006674501024383212
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 42.19172680412714
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.5864,
+      3.9326,
+      3.0895
+    ],
+    "R_TARGET_ECI_KM": [
+      1677.4512,
+      -2637.4445,
+      6364.8964
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "39867",
+    "debris_name": "SL-16 DEB",
+    "impact_time": "2026-01-15T07:04:10.375961Z",
+    "risk_metrics": {
+      "collision_probability": 3.0164324251932708e-12,
+      "miss_distance_km": 41.11241163244213,
+      "energy_joules": 783613930.2804374,
+      "energy_mass_ratio": 65301.160856703114
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        14.02487919279264,
+        0.6985807987964636,
+        38.639942271314126
+      ],
+      "covariance_ric_diagonal": [
+        11856.907460634828,
+        1024174.4379832749,
+        172858.52925009036,
+        0.030671518463514607,
+        0.01590402614300806,
+        0.010031690058867606
+      ],
+      "mahalanobis_distance": 0.17603822859188925
+    },
+    "assessment": {
+      "severity_score": 24,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.49139514704154186,
+        0.8055033805602441,
+        -0.33120252600383115
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 41.11241163244213
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.1346,
+      -4.6202,
+      2.854
+    ],
+    "R_TARGET_ECI_KM": [
+      2779.5366,
+      -916.3228,
+      -6483.7567
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "40477",
+    "debris_name": "DMSP 5D-2 F13 DEB",
+    "impact_time": "2026-01-14T10:14:10.386708Z",
+    "risk_metrics": {
+      "collision_probability": 1.3576166907850818e-41,
+      "miss_distance_km": 90.90972640513922,
+      "energy_joules": 459131377.67765576,
+      "energy_mass_ratio": 38260.94813980465
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        27.672620572157324,
+        -43.478199349066166,
+        -74.88958944399111
+      ],
+      "covariance_ric_diagonal": [
+        7.924594832000381,
+        399.85054199238846,
+        394.0770571756111,
+        0.00021618294367341332,
+        0.0003077741634894554,
+        0.0003061202967948214
+      ],
+      "mahalanobis_distance": 11.056496901407813
+    },
+    "assessment": {
+      "severity_score": 40,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.15390357317494657,
+        -0.9654881129510537,
+        -0.21011043223259585
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 90.90972640513922
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.8509,
+      4.5433,
+      1.1654
+    ],
+    "R_TARGET_ECI_KM": [
+      190.6842,
+      -1538.8314,
+      6917.0255
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "41198",
+    "debris_name": "NOAA 16 DEB",
+    "impact_time": "2026-01-15T08:25:10.398364Z",
+    "risk_metrics": {
+      "collision_probability": 3.2104206835864086e-12,
+      "miss_distance_km": 69.01615861305524,
+      "energy_joules": 802413621.3970283,
+      "energy_mass_ratio": 66867.8017830857
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        21.5371621724677,
+        50.795364781362956,
+        41.46337796161205
+      ],
+      "covariance_ric_diagonal": [
+        13448.502858087586,
+        1217262.076445317,
+        135639.79764859512,
+        0.02492810441567555,
+        0.04718860418445948,
+        0.010127095294641095
+      ],
+      "mahalanobis_distance": 0.21962796817290464
+    },
+    "assessment": {
+      "severity_score": 25,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.48786169922228706,
+        0.5317937886383381,
+        0.6922328572529176
+      ],
+      "impact_location": "-Z",
+      "miss_distance_km": 69.01615861305524
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      4.752,
+      -2.7454,
+      -5.0851
+    ],
+    "R_TARGET_ECI_KM": [
+      -3344.8935,
+      3644.8208,
+      -5105.2605
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "41360",
+    "debris_name": "NOAA 16 DEB",
+    "impact_time": "2026-01-15T05:47:10.410777Z",
+    "risk_metrics": {
+      "collision_probability": 5.0159548359964084e-12,
+      "miss_distance_km": 79.75389588074538,
+      "energy_joules": 822709508.8117288,
+      "energy_mass_ratio": 68559.12573431074
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        54.252029021213026,
+        57.83709838313011,
+        -8.501253193404043
+      ],
+      "covariance_ric_diagonal": [
+        10505.561011217687,
+        996690.268776466,
+        60944.08032031604,
+        0.02197820631669003,
+        0.017810561366968212,
+        0.008069655125466335
+      ],
+      "mahalanobis_distance": 0.533566494473086
+    },
+    "assessment": {
+      "severity_score": 27,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.17885015572005036,
+        -0.1534532541958361,
+        -0.9718357476653328
+      ],
+      "impact_location": "+Z",
+      "miss_distance_km": 79.75389588074538
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -2.0647,
+      0.2143,
+      7.1989
+    ],
+    "R_TARGET_ECI_KM": [
+      5260.6974,
+      -4487.0674,
+      1627.4333
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "41400",
+    "debris_name": "NOAA 16 DEB",
+    "impact_time": "2026-01-15T05:10:10.418009Z",
+    "risk_metrics": {
+      "collision_probability": 3.288534568404705e-12,
+      "miss_distance_km": 64.70943928845699,
+      "energy_joules": 767498639.2519928,
+      "energy_mass_ratio": 63958.21993766607
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        43.87950944051598,
+        42.82485945666228,
+        -20.6865076028626
+      ],
+      "covariance_ric_diagonal": [
+        9844.595052414123,
+        828037.7438152332,
+        165722.17057435235,
+        0.02107724389480749,
+        0.03228091578007737,
+        0.008410141051128209
+      ],
+      "mahalanobis_distance": 0.4532699367552962
+    },
+    "assessment": {
+      "severity_score": 25,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.5103341641032094,
+        0.6833499006252517,
+        0.5221033940938964
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 64.70943928845699
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.4129,
+      -3.5513,
+      -3.7429
+    ],
+    "R_TARGET_ECI_KM": [
+      -2234.6861,
+      2969.4112,
+      -6062.0107
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "41492",
+    "debris_name": "NOAA 16 DEB",
+    "impact_time": "2026-01-14T22:41:10.426953Z",
+    "risk_metrics": {
+      "collision_probability": 2.2481527853262742e-12,
+      "miss_distance_km": 90.10694752481722,
+      "energy_joules": 5266676.973615769,
+      "energy_mass_ratio": 438.8897478013141
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        73.63597837010653,
+        -27.674634023909533,
+        -43.94450265232317
+      ],
+      "covariance_ric_diagonal": [
+        4385.456204093468,
+        432657.37470360653,
+        9768.23313230015,
+        0.015390706837657715,
+        0.007214632360993917,
+        0.004805485925193317
+      ],
+      "mahalanobis_distance": 1.1210765630445716
+    },
+    "assessment": {
+      "severity_score": 23,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.6757673244068066,
+        -0.719100079858981,
+        -0.16196788792463812
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 90.10694752481722
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.843,
+      -4.6578,
+      -0.1022
+    ],
+    "R_TARGET_ECI_KM": [
+      606.2077,
+      909.3967,
+      -7028.4673
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "41494",
+    "debris_name": "NOAA 16 DEB",
+    "impact_time": "2026-01-14T21:55:10.437043Z",
+    "risk_metrics": {
+      "collision_probability": 4.5813727000287456e-12,
+      "miss_distance_km": 99.42521476622278,
+      "energy_joules": 574097264.3443376,
+      "energy_mass_ratio": 47841.43869536147
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -19.085223511395938,
+        94.56027882214765,
+        24.072416661134735
+      ],
+      "covariance_ric_diagonal": [
+        3891.0793768736517,
+        219735.639605522,
+        172037.79062960425,
+        0.01295008689872661,
+        0.004838256898784238,
+        0.0050479698113646615
+      ],
+      "mahalanobis_distance": 0.3199408092537485
+    },
+    "assessment": {
+      "severity_score": 26,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.9606594127089956,
+        -0.08427354633522846,
+        0.2646345820175842
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 99.42521476622278
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.5618,
+      4.7737,
+      -1.5909
+    ],
+    "R_TARGET_ECI_KM": [
+      -1850.4239,
+      125.1739,
+      6840.6565
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "41717",
+    "debris_name": "NOAA 16 DEB",
+    "impact_time": "2026-01-14T09:42:10.446915Z",
+    "risk_metrics": {
+      "collision_probability": 0.0,
+      "miss_distance_km": 76.17839452205497,
+      "energy_joules": 817636020.2272872,
+      "energy_mass_ratio": 68136.3350189406
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -19.647479991744262,
+        41.200817010911614,
+        60.98866287733515
+      ],
+      "covariance_ric_diagonal": [
+        0.05221324345388753,
+        2.5476951910676315,
+        0.22450956547848122,
+        8.001652997849488e-06,
+        0.00019321950020454871,
+        2.078886412343036e-05
+      ],
+      "mahalanobis_distance": 199.47764761616295
+    },
+    "assessment": {
+      "severity_score": 40,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.47382939515012656,
+        0.312435611280296,
+        -0.8233284235101859
+      ],
+      "impact_location": "+Z",
+      "miss_distance_km": 76.17839452205497
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      2.7411,
+      -3.4472,
+      6.0461
+    ],
+    "R_TARGET_ECI_KM": [
+      4899.2642,
+      -3192.7329,
+      -4048.2874
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "41858",
+    "debris_name": "CZ-2D R/B",
+    "impact_time": "2026-01-14T17:42:10.457381Z",
+    "risk_metrics": {
+      "collision_probability": 5.939642618616075e-10,
+      "miss_distance_km": 46.592587379017154,
+      "energy_joules": 76986370972.79726,
+      "energy_mass_ratio": 6415530.914399771
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        18.018650954099012,
+        -11.33666922926811,
+        41.44487118150883
+      ],
+      "covariance_ric_diagonal": [
+        1668.5669982273453,
+        108460.134685513,
+        59784.91537425976,
+        0.005579367084142526,
+        0.005159047506657772,
+        0.005108041991084133
+      ],
+      "mahalanobis_distance": 0.45544978895104227
+    },
+    "assessment": {
+      "severity_score": 47,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.1714527060169062,
+        0.9706983209831076,
+        0.1683708376178782
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 46.592587379017154
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8558,
+      -4.6024,
+      -0.616
+    ],
+    "R_TARGET_ECI_KM": [
+      222.6308,
+      1214.6246,
+      -7004.6387
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "41920",
+    "debris_name": "IRIDIUM 102",
+    "impact_time": "2026-01-15T02:56:10.465491Z",
+    "risk_metrics": {
+      "collision_probability": 6.771049297648866e-10,
+      "miss_distance_km": 80.9079322355849,
+      "energy_joules": 334019503697.2363,
+      "energy_mass_ratio": 27834958.64143636
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        60.02836538352836,
+        52.407502525745976,
+        -14.005089326153586
+      ],
+      "covariance_ric_diagonal": [
+        7730.286530315453,
+        754312.3964343976,
+        24667.06566528693,
+        0.017509883820638176,
+        0.019502577300945352,
+        0.007040203365702991
+      ],
+      "mahalanobis_distance": 0.6979826982689665
+    },
+    "assessment": {
+      "severity_score": 48,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.7385809895421366,
+        -0.5324750170046499,
+        0.41348334672447773
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 80.9079322355849
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.0905,
+      4.6367,
+      -2.9746
+    ],
+    "R_TARGET_ECI_KM": [
+      -2847.8548,
+      995.4835,
+      6414.0743
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "42097",
+    "debris_name": "COSMOS 1275 DEB",
+    "impact_time": "2026-01-14T15:13:10.473935Z",
+    "risk_metrics": {
+      "collision_probability": 2.6873269015654522e-11,
+      "miss_distance_km": 67.49784292836817,
+      "energy_joules": 830302804.3529283,
+      "energy_mass_ratio": 69191.90036274403
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        52.37228525635505,
+        42.22662193223683,
+        5.478588979068574
+      ],
+      "covariance_ric_diagonal": [
+        794.8361296089836,
+        76370.24683115794,
+        3785.5186152330807,
+        0.0031552229775154224,
+        0.004201102086789027,
+        0.002136102551986961
+      ],
+      "mahalanobis_distance": 1.8742324227132436
+    },
+    "assessment": {
+      "severity_score": 34,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.6881833418486022,
+        -0.718060810482742,
+        -0.10388628550579986
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 67.49784292836817
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.8682,
+      4.6235,
+      0.6513
+    ],
+    "R_TARGET_ECI_KM": [
+      -192.5029,
+      -1234.9921,
+      6977.1965
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "42340",
+    "debris_name": "NOAA 16 DEB",
+    "impact_time": "2026-01-14T15:23:10.487547Z",
+    "risk_metrics": {
+      "collision_probability": 3.0509773275011024e-11,
+      "miss_distance_km": 39.640960023954946,
+      "energy_joules": 774583415.4021484,
+      "energy_mass_ratio": 64548.61795017903
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        22.93832946941195,
+        -1.5337548261076843,
+        32.29375092656307
+      ],
+      "covariance_ric_diagonal": [
+        842.4198055323506,
+        71196.16667402878,
+        13861.871276438858,
+        0.0032546880047801736,
+        0.0025437778324333238,
+        0.0021463606479021667
+      ],
+      "mahalanobis_distance": 0.8688935339849911
+    },
+    "assessment": {
+      "severity_score": 34,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.768069463763945,
+        -0.3488025647339458,
+        0.5370345142808416
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 39.640960023954946
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -4.6095,
+      4.4981,
+      -3.845
+    ],
+    "R_TARGET_ECI_KM": [
+      -3445.381,
+      1596.8297,
+      5985.9419
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "42367",
+    "debris_name": "NOAA 16 DEB",
+    "impact_time": "2026-01-15T06:39:10.494815Z",
+    "risk_metrics": {
+      "collision_probability": 4.733984561889139e-12,
+      "miss_distance_km": 95.66000342649043,
+      "energy_joules": 820516636.028847,
+      "energy_mass_ratio": 68376.38633573725
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        19.06257142103604,
+        93.647299542674,
+        4.199751747276356
+      ],
+      "covariance_ric_diagonal": [
+        11484.174889144972,
+        1078480.4921355343,
+        72272.44721932072,
+        0.03310771639314936,
+        0.02589933042495747,
+        0.00855037347453064
+      ],
+      "mahalanobis_distance": 0.18897651952139333
+    },
+    "assessment": {
+      "severity_score": 26,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.28262497729052716,
+        0.25582455417104694,
+        0.9244873820443131
+      ],
+      "impact_location": "-Z",
+      "miss_distance_km": 95.66000342649043
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      2.8827,
+      -0.9285,
+      -6.85
+    ],
+    "R_TARGET_ECI_KM": [
+      -4898.1144,
+      4400.3352,
+      -2669.4308
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "42558",
+    "debris_name": "DELTA 1 DEB",
+    "impact_time": "2026-01-14T18:33:10.505960Z",
+    "risk_metrics": {
+      "collision_probability": 4.6938129202346895e-12,
+      "miss_distance_km": 70.38475592472322,
+      "energy_joules": 37997616.69362432,
+      "energy_mass_ratio": 3166.4680578020266
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -60.5941351949396,
+        35.73388529266125,
+        -2.3353989918579092
+      ],
+      "covariance_ric_diagonal": [
+        2039.8586963476207,
+        186596.96665221886,
+        19218.09982743346,
+        0.008124165023903219,
+        0.0043870165876820745,
+        0.0032849987768208354
+      ],
+      "mahalanobis_distance": 1.3462046240949834
+    },
+    "assessment": {
+      "severity_score": 26,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.4499352711061839,
+        -0.8773755676670991,
+        -0.16664442518570421
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 70.38475592472322
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.8389,
+      4.7063,
+      -0.0062
+    ],
+    "R_TARGET_ECI_KM": [
+      -682.9334,
+      -843.1616,
+      7004.3402
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "42567",
+    "debris_name": "DELTA 1 DEB",
+    "impact_time": "2026-01-15T01:31:10.514018Z",
+    "risk_metrics": {
+      "collision_probability": 7.934407239091695e-12,
+      "miss_distance_km": 93.19171374444998,
+      "energy_joules": 827730673.2742467,
+      "energy_mass_ratio": 68977.55610618723
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -28.951097885142172,
+        71.36135585910772,
+        52.47938959079284
+      ],
+      "covariance_ric_diagonal": [
+        6543.5067033376445,
+        619414.8473998602,
+        36839.75299680205,
+        0.01829863885306376,
+        0.013900749532657119,
+        0.006558765279795136
+      ],
+      "mahalanobis_distance": 0.4412542855890068
+    },
+    "assessment": {
+      "severity_score": 28,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.196423555057063,
+        -0.1471156270461078,
+        0.9694198157468215
+      ],
+      "impact_location": "-Z",
+      "miss_distance_km": 93.19171374444998
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -0.7682,
+      2.0322,
+      -7.1771
+    ],
+    "R_TARGET_ECI_KM": [
+      -5544.8476,
+      4076.2781,
+      1734.2492
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "43079",
+    "debris_name": "IRIDIUM 131",
+    "impact_time": "2026-01-14T21:04:10.525588Z",
+    "risk_metrics": {
+      "collision_probability": 2.944290676372533e-10,
+      "miss_distance_km": 74.58205354339854,
+      "energy_joules": 99923243799.60442,
+      "energy_mass_ratio": 8326936.983300368
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        51.16309842099734,
+        53.83699037078871,
+        -6.811647269883475
+      ],
+      "covariance_ric_diagonal": [
+        3361.312648686484,
+        196851.52392659558,
+        142378.78731871812,
+        0.010206984261502747,
+        0.005714774227449167,
+        0.009246817440716124
+      ],
+      "mahalanobis_distance": 0.88878767516467
+    },
+    "assessment": {
+      "severity_score": 44,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.10020921888342188,
+        0.993096651915157,
+        0.06096845216984947
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 74.58205354339854
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.6841,
+      -4.754,
+      0.9661
+    ],
+    "R_TARGET_ECI_KM": [
+      1403.2545,
+      257.9362,
+      -6968.771
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "44518",
+    "debris_name": "BREEZE-KM R/B",
+    "impact_time": "2026-01-15T01:26:10.537297Z",
+    "risk_metrics": {
+      "collision_probability": 5.513903038217147e-10,
+      "miss_distance_km": 72.71231048822041,
+      "energy_joules": 331491396346.22565,
+      "energy_mass_ratio": 27624283.02885214
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -43.64494321173753,
+        -3.890040240692953,
+        58.026430318479555
+      ],
+      "covariance_ric_diagonal": [
+        6431.821250891668,
+        600295.0285789226,
+        49112.81718018579,
+        0.013206972737714229,
+        0.012388924349191317,
+        0.0062557446379371195
+      ],
+      "mahalanobis_distance": 0.6392544409689949
+    },
+    "assessment": {
+      "severity_score": 47,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.4518960965236839,
+        -0.28486056152787914,
+        0.8453664165897448
+      ],
+      "impact_location": "-Z",
+      "miss_distance_km": 72.71231048822041
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -2.5558,
+      3.2733,
+      -6.2461
+    ],
+    "R_TARGET_ECI_KM": [
+      -5042.0397,
+      3273.715,
+      3764.8061
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "45721",
+    "debris_name": "HAIYANG 1D",
+    "impact_time": "2026-01-15T01:05:10.551068Z",
+    "risk_metrics": {
+      "collision_probability": 1.437792359287164e-10,
+      "miss_distance_km": 69.11849573775861,
+      "energy_joules": 72601577.32624944,
+      "energy_mass_ratio": 6050.131443854119
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        60.23138736369001,
+        -24.194024803461772,
+        23.752801794844217
+      ],
+      "covariance_ric_diagonal": [
+        6150.917686706074,
+        614466.8396507438,
+        6397.443694549878,
+        0.012124093523619579,
+        0.026498381975558594,
+        0.005738999509347451
+      ],
+      "mahalanobis_distance": 0.8040044477708109
+    },
+    "assessment": {
+      "severity_score": 41,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.7546897491557186,
+        0.6160555578225193,
+        0.22565221709602204
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 69.11849573775861
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.7797,
+      4.1377,
+      2.3876
+    ],
+    "R_TARGET_ECI_KM": [
+      1151.9999,
+      -2232.6052,
+      6629.7947
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "47001",
+    "debris_name": "FENGYUN 1C DEB *",
+    "impact_time": "2026-01-15T05:14:10.566215Z",
+    "risk_metrics": {
+      "collision_probability": 1.9080541800174612e-12,
+      "miss_distance_km": 90.0523764942545,
+      "energy_joules": 611497577.796248,
+      "energy_mass_ratio": 50958.13148302066
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        2.9641209681429745,
+        83.64229273885532,
+        -33.23569413351864
+      ],
+      "covariance_ric_diagonal": [
+        9907.326267385148,
+        598780.2712932555,
+        401796.7711533594,
+        0.017071148600111483,
+        0.025822269803587865,
+        0.023554863100716156
+      ],
+      "mahalanobis_distance": 0.13935649382545678
+    },
+    "assessment": {
+      "severity_score": 22,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.3402613452388685,
+        0.8870196766525545,
+        0.31211906383685933
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 90.0523764942545
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8276,
+      -4.2174,
+      -2.031
+    ],
+    "R_TARGET_ECI_KM": [
+      -878.6086,
+      2032.165,
+      -6758.5304
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "50467",
+    "debris_name": "CZ-4C R/B",
+    "impact_time": "2026-01-14T13:40:10.590275Z",
+    "risk_metrics": {
+      "collision_probability": 1.018899196241327e-09,
+      "miss_distance_km": 88.1935893794779,
+      "energy_joules": 275508583549.6001,
+      "energy_mass_ratio": 22959048.62913334
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -66.0636745360126,
+        56.68728529567685,
+        -14.151035306375874
+      ],
+      "covariance_ric_diagonal": [
+        411.5493875951189,
+        28465.500534888073,
+        13074.706779516811,
+        0.0022869944476193054,
+        0.0016106779896330177,
+        0.0015391319405909138
+      ],
+      "mahalanobis_distance": 3.294908832022651
+    },
+    "assessment": {
+      "severity_score": 50,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.9127194643761662,
+        -0.2342472404365323,
+        0.3347706820329241
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 88.1935893794779
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.3226,
+      4.7735,
+      -2.2673
+    ],
+    "R_TARGET_ECI_KM": [
+      -2336.007,
+      566.2063,
+      6667.7978
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "54640",
+    "debris_name": "GAOFEN 5 01A",
+    "impact_time": "2026-01-15T09:25:10.613685Z",
+    "risk_metrics": {
+      "collision_probability": 6.216251374810096e-11,
+      "miss_distance_km": 48.03180216731661,
+      "energy_joules": 1535875688.8207822,
+      "energy_mass_ratio": 127989.64073506519
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -18.644419425439292,
+        -13.681638838505817,
+        42.09812825318048
+      ],
+      "covariance_ric_diagonal": [
+        14605.374456902302,
+        1446988.345361922,
+        27607.090213176318,
+        0.0428753073910131,
+        0.021059372363798283,
+        0.008970206309903755
+      ],
+      "mahalanobis_distance": 0.14671946686741003
+    },
+    "assessment": {
+      "severity_score": 37,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.6567524294685341,
+        0.7347939401806959,
+        0.1695703685175045
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 48.03180216731661
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.9341,
+      4.5177,
+      0.7841
+    ],
+    "R_TARGET_ECI_KM": [
+      -74.3195,
+      -1314.6793,
+      6964.8285
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "54949",
+    "debris_name": "CZ-6A DEB",
+    "impact_time": "2026-01-14T21:49:10.626153Z",
+    "risk_metrics": {
+      "collision_probability": 3.758548613942027e-12,
+      "miss_distance_km": 71.57710333213144,
+      "energy_joules": 446848959.4486788,
+      "energy_mass_ratio": 37237.4132873899
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -56.021327058640914,
+        34.96482396507243,
+        -27.610753722035675
+      ],
+      "covariance_ric_diagonal": [
+        3819.1824251753956,
+        193089.53536942173,
+        192313.634909403,
+        0.011742122987002472,
+        0.008459573138917653,
+        0.008799857834940805
+      ],
+      "mahalanobis_distance": 0.9035999566851279
+    },
+    "assessment": {
+      "severity_score": 25,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.13689484616316255,
+        -0.9662887792282935,
+        -0.2180499852046672
+      ],
+      "impact_location": "+Y",
+      "miss_distance_km": 71.57710333213144
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.8895,
+      4.4823,
+      1.2071
+    ],
+    "R_TARGET_ECI_KM": [
+      235.9633,
+      -1561.2456,
+      6910.5349
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "54966",
+    "debris_name": "CZ-6A DEB",
+    "impact_time": "2026-01-15T02:38:10.638801Z",
+    "risk_metrics": {
+      "collision_probability": 5.593623435633242e-12,
+      "miss_distance_km": 34.025248412001204,
+      "energy_joules": 801427526.6961479,
+      "energy_mass_ratio": 66785.62722467899
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -26.939461558380625,
+        16.15332164618597,
+        13.078728540564752
+      ],
+      "covariance_ric_diagonal": [
+        7447.49189714488,
+        672705.3576633646,
+        79431.10034549062,
+        0.011198968995919018,
+        0.026427563353326924,
+        0.006766127277315233
+      ],
+      "mahalanobis_distance": 0.3221596523016128
+    },
+    "assessment": {
+      "severity_score": 27,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.4897933635761561,
+        -0.5486966365178598,
+        -0.6775208202952671
+      ],
+      "impact_location": "+Z",
+      "miss_distance_km": 34.025248412001204
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -4.8577,
+      2.8919,
+      4.9236
+    ],
+    "R_TARGET_ECI_KM": [
+      3192.8889,
+      -3575.94,
+      5229.6287
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "55198",
+    "debris_name": "CZ-6A DEB",
+    "impact_time": "2026-01-15T08:34:10.649426Z",
+    "risk_metrics": {
+      "collision_probability": 1.2075411033801406e-12,
+      "miss_distance_km": 80.41545443816833,
+      "energy_joules": 518009669.4779243,
+      "energy_mass_ratio": 43167.47245649369
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        22.47788420640124,
+        -23.42506046328001,
+        73.57075897659627
+      ],
+      "covariance_ric_diagonal": [
+        13630.413673516341,
+        722816.7463992782,
+        647993.6922412051,
+        0.039175870117305146,
+        0.02396240336461212,
+        0.009108234822049798
+      ],
+      "mahalanobis_distance": 0.22138779600313677
+    },
+    "assessment": {
+      "severity_score": 20,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.24400667828111153,
+        0.9397325418664974,
+        0.23950676512518657
+      ],
+      "impact_location": "-Y",
+      "miss_distance_km": 80.41545443816833
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8973,
+      -4.3745,
+      -1.395
+    ],
+    "R_TARGET_ECI_KM": [
+      -389.5835,
+      1668.7992,
+      -6902.8166
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "60661",
+    "debris_name": "CZ-6A DEB",
+    "impact_time": "2026-01-15T07:44:10.688771Z",
+    "risk_metrics": {
+      "collision_probability": 1.2961844669575058e-11,
+      "miss_distance_km": 54.968625652003546,
+      "energy_joules": 5742648558.747659,
+      "energy_mass_ratio": 478554.0465623049
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -0.2155132870938258,
+        -36.29475316088261,
+        41.28188771221333
+      ],
+      "covariance_ric_diagonal": [
+        12639.182110997122,
+        996455.5134393295,
+        276349.03586367355,
+        0.019238591170669596,
+        0.041228172594542256,
+        0.02090087257061831
+      ],
+      "mahalanobis_distance": 0.04587941464913758
+    },
+    "assessment": {
+      "severity_score": 31,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.8465027706340547,
+        0.5260892777590875,
+        0.08162800225084316
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 54.968625652003546
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.9027,
+      4.3498,
+      1.5718
+    ],
+    "R_TARGET_ECI_KM": [
+      528.5155,
+      -1768.0389,
+      6844.4704
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "60692",
+    "debris_name": "CZ-6A DEB",
+    "impact_time": "2026-01-14T14:20:10.703496Z",
+    "risk_metrics": {
+      "collision_probability": 2.7770688602741353e-10,
+      "miss_distance_km": 69.22583347453036,
+      "energy_joules": 3696058296.501628,
+      "energy_mass_ratio": 308004.8580418023
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        17.170232369986444,
+        20.25667133991633,
+        -63.930168205868895
+      ],
+      "covariance_ric_diagonal": [
+        560.6629933441615,
+        48071.348500651686,
+        8536.513928004159,
+        0.0022106346430031537,
+        0.003466216830695876,
+        0.0020111052076108495
+      ],
+      "mahalanobis_distance": 0.795599530517324
+    },
+    "assessment": {
+      "severity_score": 44,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.8160119340720363,
+        -0.570955557899753,
+        -0.09019020942618385
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 69.22583347453036
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.7608,
+      -4.2402,
+      -2.1707
+    ],
+    "R_TARGET_ECI_KM": [
+      -963.4941,
+      2121.6885,
+      -6719.0783
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "60854",
+    "debris_name": "CZ-6A DEB",
+    "impact_time": "2026-01-15T06:54:10.722913Z",
+    "risk_metrics": {
+      "collision_probability": 9.570985913127055e-13,
+      "miss_distance_km": 28.951340651800646,
+      "energy_joules": 89806900.24260373,
+      "energy_mass_ratio": 7483.908353550311
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        13.557125160097314,
+        3.2209797787125902,
+        -25.37734761938658
+      ],
+      "covariance_ric_diagonal": [
+        11669.834497737222,
+        945699.1863261269,
+        232749.58969013623,
+        0.021699813004299132,
+        0.02609056001107689,
+        0.009758656432285715
+      ],
+      "mahalanobis_distance": 0.12450232588908294
+    },
+    "assessment": {
+      "severity_score": 19,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.8400118275935993,
+        -0.5389105691086946,
+        -0.06289298526889539
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 28.951340651800646
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8681,
+      -4.3002,
+      -1.7147
+    ],
+    "R_TARGET_ECI_KM": [
+      -634.9434,
+      1851.9804,
+      -6837.3661
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "60874",
+    "debris_name": "CZ-6A DEB",
+    "impact_time": "2026-01-14T10:13:10.736717Z",
+    "risk_metrics": {
+      "collision_probability": 2.3184767893737867e-29,
+      "miss_distance_km": 87.42093900956361,
+      "energy_joules": 103383520.54811633,
+      "energy_mass_ratio": 8615.293379009694
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -72.74727168910925,
+        42.41534247346929,
+        23.477516094405697
+      ],
+      "covariance_ric_diagonal": [
+        7.420110376006779,
+        583.9503140470849,
+        162.7457515769081,
+        0.0002068872493123648,
+        0.0003642722088458287,
+        0.00023976370025564228
+      ],
+      "mahalanobis_distance": 26.770206129247974
+    },
+    "assessment": {
+      "severity_score": -146,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.8486754003635967,
+        0.5245155869697121,
+        0.06806954871004588
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 87.42093900956361
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.8264,
+      4.4315,
+      1.6261
+    ],
+    "R_TARGET_ECI_KM": [
+      541.1217,
+      -1808.1637,
+      6833.2548
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "60974",
+    "debris_name": "CZ-6A DEB",
+    "impact_time": "2026-01-15T02:47:10.750056Z",
+    "risk_metrics": {
+      "collision_probability": 1.4488820456470733e-12,
+      "miss_distance_km": 88.80098628838144,
+      "energy_joules": 148221178.65174973,
+      "energy_mass_ratio": 12351.764887645812
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        5.2726195011853,
+        -75.81151256935823,
+        45.939408042889134
+      ],
+      "covariance_ric_diagonal": [
+        7632.190742434058,
+        541647.7810357104,
+        223807.3910898554,
+        0.014636025216935421,
+        0.02110562558806805,
+        0.015973631343864026
+      ],
+      "mahalanobis_distance": 0.1303178770669311
+    },
+    "assessment": {
+      "severity_score": 21,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.8877429137069488,
+        0.453034374698611,
+        0.08168460188782253
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 88.80098628838144
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.9079,
+      4.4709,
+      1.1588
+    ],
+    "R_TARGET_ECI_KM": [
+      204.8605,
+      -1532.3695,
+      6917.9014
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "61145",
+    "debris_name": "CZ-6A DEB",
+    "impact_time": "2026-01-15T01:56:10.765769Z",
+    "risk_metrics": {
+      "collision_probability": 1.6240403562226804e-12,
+      "miss_distance_km": 71.34836515472337,
+      "energy_joules": 91989821.73086374,
+      "energy_mass_ratio": 7665.818477571978
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -29.70721304701752,
+        25.44912277009109,
+        -59.66919518029119
+      ],
+      "covariance_ric_diagonal": [
+        6846.583610183254,
+        552523.773143577,
+        138770.7507962394,
+        0.013157782393259295,
+        0.01728611908813808,
+        0.007396775395938849
+      ],
+      "mahalanobis_distance": 0.35868997744318226
+    },
+    "assessment": {
+      "severity_score": 22,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.840584330387361,
+        -0.5375271268366558,
+        -0.06695200532532337
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 71.34836515472337
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8474,
+      -4.3095,
+      -1.7618
+    ],
+    "R_TARGET_ECI_KM": [
+      -664.4248,
+      1881.2683,
+      -6826.4811
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "61266",
+    "debris_name": "CZ-6A DEB",
+    "impact_time": "2026-01-14T13:33:10.786573Z",
+    "risk_metrics": {
+      "collision_probability": 1.4523569717285199e-11,
+      "miss_distance_km": 90.5859909704706,
+      "energy_joules": 210554957.7667227,
+      "energy_mass_ratio": 17546.246480560225
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -30.85537045129494,
+        83.78197578593951,
+        15.308442370789372
+      ],
+      "covariance_ric_diagonal": [
+        387.9043161595768,
+        24454.96528061495,
+        14687.570179225477,
+        0.0023314679024736013,
+        0.0019333190250612371,
+        0.0016367398990331625
+      ],
+      "mahalanobis_distance": 1.5982641928303314
+    },
+    "assessment": {
+      "severity_score": 31,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.9288873658272705,
+        0.36365746116167785,
+        0.0701534908632543
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 90.5859909704706
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.8657,
+      4.5685,
+      0.9784
+    ],
+    "R_TARGET_ECI_KM": [
+      52.7863,
+      -1428.3743,
+      6942.9109
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "61813",
+    "debris_name": "CZ-6A DEB",
+    "impact_time": "2026-01-14T18:26:10.799937Z",
+    "risk_metrics": {
+      "collision_probability": 4.7285666019375865e-12,
+      "miss_distance_km": 84.15658474719743,
+      "energy_joules": 31431115.060397748,
+      "energy_mass_ratio": 2619.259588366479
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        44.27660914351956,
+        -47.38144393232283,
+        53.63684750199595
+      ],
+      "covariance_ric_diagonal": [
+        1992.4843256566596,
+        184418.33022685038,
+        16010.284897492917,
+        0.0043260665620877105,
+        0.01090425367544755,
+        0.0037898094414930868
+      ],
+      "mahalanobis_distance": 1.0445723794656068
+    },
+    "assessment": {
+      "severity_score": 26,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.7629974976817767,
+        0.638368403720451,
+        0.10159034880389568
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 84.15658474719743
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.5838,
+      3.87,
+      3.1722
+    ],
+    "R_TARGET_ECI_KM": [
+      1755.8984,
+      -2674.2472,
+      6328.3393
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "61836",
+    "debris_name": "CZ-6A DEB",
+    "impact_time": "2026-01-14T23:26:10.812721Z",
+    "risk_metrics": {
+      "collision_probability": 2.0395869770446762e-12,
+      "miss_distance_km": 95.77951680757478,
+      "energy_joules": 58230513.18975654,
+      "energy_mass_ratio": 4852.542765813045
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -92.65725947625874,
+        11.414029768810831,
+        21.402523932435177
+      ],
+      "covariance_ric_diagonal": [
+        4900.554003137329,
+        428643.577009079,
+        66308.97383778382,
+        0.014566267572101058,
+        0.014357643480710896,
+        0.005514103571489811
+      ],
+      "mahalanobis_distance": 1.3229489134338446
+    },
+    "assessment": {
+      "severity_score": 23,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        0.7855283612478106,
+        0.6139259253420934,
+        0.07771841068432937
+      ],
+      "impact_location": "-X",
+      "miss_distance_km": 95.77951680757478
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      -5.7964,
+      4.1887,
+      2.2546
+    ],
+    "R_TARGET_ECI_KM": [
+      1045.5538,
+      -2159.4148,
+      6671.3901
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "61839",
+    "debris_name": "CZ-6A DEB",
+    "impact_time": "2026-01-14T20:58:10.828311Z",
+    "risk_metrics": {
+      "collision_probability": 3.05995223990007e-12,
+      "miss_distance_km": 78.28647886959611,
+      "energy_joules": 79864820.36297716,
+      "energy_mass_ratio": 6655.401696914763
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        33.89039919401489,
+        -61.97509525695755,
+        -33.75353587642438
+      ],
+      "covariance_ric_diagonal": [
+        3315.6898582523,
+        273867.06844192825,
+        59416.161485819284,
+        0.006726294748364183,
+        0.013839271773639911,
+        0.006823414511410554
+      ],
+      "mahalanobis_distance": 0.6131834558465797
+    },
+    "assessment": {
+      "severity_score": 24,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.8314673537124461,
+        -0.5486889142447686,
+        -0.08719240024675799
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 78.28647886959611
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8265,
+      -4.3185,
+      -1.8089
+    ],
+    "R_TARGET_ECI_KM": [
+      -693.6664,
+      1910.7243,
+      -6815.3011
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "64506",
+    "debris_name": "KUIPER-00046",
+    "impact_time": "2026-01-15T02:17:10.855878Z",
+    "risk_metrics": {
+      "collision_probability": 3.4240604512425227e-10,
+      "miss_distance_km": 89.32393625418374,
+      "energy_joules": 310360133709.6787,
+      "energy_mass_ratio": 25863344.47580656
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -86.94566696610417,
+        -5.6436058873141794,
+        19.6816233159121
+      ],
+      "covariance_ric_diagonal": [
+        7142.861478025258,
+        602133.2595791983,
+        119262.53727077619,
+        0.00966786270087252,
+        0.02175519427446999,
+        0.010744059838754792
+      ],
+      "mahalanobis_distance": 1.0313201842569104
+    },
+    "assessment": {
+      "severity_score": 45,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.085973650328817,
+        0.6070104128121502,
+        -0.7900296766877507
+      ],
+      "impact_location": "+Z",
+      "miss_distance_km": 89.32393625418374
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      2.1027,
+      -2.9672,
+      6.5389
+    ],
+    "R_TARGET_ECI_KM": [
+      5234.5037,
+      -3516.569,
+      -3287.2241
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "64646",
+    "debris_name": "CZ-6A DEB",
+    "impact_time": "2026-01-14T16:03:10.869426Z",
+    "risk_metrics": {
+      "collision_probability": 1.1198477686926188e-11,
+      "miss_distance_km": 71.5298228316215,
+      "energy_joules": 357986544.5769978,
+      "energy_mass_ratio": 29832.21204808315
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        34.18452876977961,
+        61.696107954311465,
+        -11.896378037083961
+      ],
+      "covariance_ric_diagonal": [
+        1050.7074510815723,
+        54185.10879090871,
+        51932.86623400967,
+        0.004605982370864736,
+        0.0031241187905996807,
+        0.003539041185873266
+      ],
+      "mahalanobis_distance": 1.0582014098229855
+    },
+    "assessment": {
+      "severity_score": 30,
+      "severity_level": "LOW",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.9819554192386587,
+        -0.17586655891828856,
+        -0.06953062545979549
+      ],
+      "impact_location": "+X",
+      "miss_distance_km": 71.5298228316215
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      5.8445,
+      -4.6329,
+      -0.4772
+    ],
+    "R_TARGET_ECI_KM": [
+      328.9546,
+      1131.5159,
+      -7014.4214
+    ]
+  },
+  {
+    "target_name": "CUSTOM_OBJECT",
+    "other_id": "64821",
+    "debris_name": "KUIPER-00074",
+    "impact_time": "2026-01-15T03:24:10.888551Z",
+    "risk_metrics": {
+      "collision_probability": 2.7490936187727883e-10,
+      "miss_distance_km": 98.38200084688236,
+      "energy_joules": 303164596102.9174,
+      "energy_mass_ratio": 25263716.341909785
+    },
+    "cdm_data": {
+      "relative_position_ric": [
+        -88.2396495374627,
+        27.893246868978043,
+        33.387858859890486
+      ],
+      "covariance_ric_diagonal": [
+        8135.838104280414,
+        658028.2688184932,
+        163687.23581122668,
+        0.01765021255815911,
+        0.023114041229523173,
+        0.0068981292956601875
+      ],
+      "mahalanobis_distance": 0.9873526075405074
+    },
+    "assessment": {
+      "severity_score": 44,
+      "severity_level": "MEDIUM",
+      "damage_classification": "CATASTROPHIC"
+    },
+    "trajectory": {
+      "impact_vector": [
+        -0.7033076550434358,
+        -0.00810258536655782,
+        0.7108394265420472
+      ],
+      "impact_location": "-Z",
+      "miss_distance_km": 98.38200084688236
+    },
+    "metadata": {
+      "regime": "LEO",
+      "stm_method": "MONTE_CARLO_COVARIANCE"
+    },
+    "confidence": {
+      "impact_time_confidence": 0.95,
+      "energy_confidence": 0.8
+    },
+    "V_TARGET_KM_S": [
+      3.9676,
+      -1.9603,
+      -6.0372
+    ],
+    "R_TARGET_ECI_KM": [
+      -4144.7398,
+      4098.7017,
+      -4066.1685
+    ]
+  }
+]

@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Collision Avoidance</title>
+  <style>
+    body { font-family: Arial; max-width: 850px; margin: auto; padding: 10px; }
+    input, button { width: 100%; padding: 10px; margin: 6px 0; }
+    pre { background: #111; color: #0f0; padding: 10px; white-space: pre-wrap; border-radius: 8px; }
+    hr { margin: 18px 0; }
+  </style>
+</head>
+<body>
+
+<h2>Satellite Conjunction Analysis</h2>
+
+<input id="name" value="CUSTOM_OBJECT" placeholder="Satellite Name">
+<input id="perigee" value="716.3" placeholder="Perigee (km)">
+<input id="apogee" value="728.4" placeholder="Apogee (km)">
+<input id="inc" value="98.8" placeholder="Inclination (deg)">
+
+<button onclick="runFullPipeline()">Run Prediction → Auto Decision</button>
+<button onclick="downloadPrediction()">⬇ Download Prediction JSON (optional)</button>
+
+<h3>Prediction Output</h3>
+<pre id="predOut">Waiting...</pre>
+
+<hr>
+
+<h3>Decision Output</h3>
+<pre id="decOut">Waiting...</pre>
+
+<script>
+const LS_PRED = "LAST_PREDICTION_OUTPUT";
+const LS_DEC  = "LAST_DECISION_OUTPUT";
+
+// ✅ restore output after reload
+window.addEventListener("load", () => {
+  const predSaved = localStorage.getItem(LS_PRED);
+  const decSaved  = localStorage.getItem(LS_DEC);
+
+  if (predSaved) document.getElementById("predOut").textContent = predSaved;
+  if (decSaved) document.getElementById("decOut").textContent = decSaved;
+});
+
+async function runFullPipeline() {
+  const predOut = document.getElementById("predOut");
+  const decOut = document.getElementById("decOut");
+
+  try {
+    predOut.textContent = "Running prediction... (may take a few minutes)";
+    decOut.textContent = "Waiting for prediction output...";
+
+    const payload = {
+      name: document.getElementById("name").value,
+      perigee_km: Number(document.getElementById("perigee").value),
+      apogee_km: Number(document.getElementById("apogee").value),
+      inclination_deg: Number(document.getElementById("inc").value),
+    };
+
+    // ✅ 1) Predict
+    const res1 = await fetch("http://127.0.0.1:8000/predict_json", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload),
+    });
+
+    if (!res1.ok) {
+      const errText = await res1.text();
+      predOut.textContent = `PREDICT ERROR: HTTP ${res1.status}\n\n${errText}`;
+      decOut.textContent = "Decision not executed.";
+      localStorage.setItem(LS_PRED, predOut.textContent);
+      localStorage.setItem(LS_DEC, decOut.textContent);
+      return;
+    }
+
+    const predictionData = await res1.json();
+    const predPretty = JSON.stringify(predictionData, null, 2);
+
+    predOut.textContent = predPretty;
+    localStorage.setItem(LS_PRED, predPretty);
+
+    // ✅ 2) Auto Decide
+    decOut.textContent = "Running decision phase...";
+    localStorage.setItem(LS_DEC, decOut.textContent);
+
+    const res2 = await fetch("http://127.0.0.1:8000/decide_json", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(predictionData),
+    });
+
+    if (!res2.ok) {
+      const errText = await res2.text();
+      decOut.textContent = `DECIDE ERROR: HTTP ${res2.status}\n\n${errText}`;
+      localStorage.setItem(LS_DEC, decOut.textContent);
+      return;
+    }
+
+    const decisionData = await res2.json();
+    const decPretty = JSON.stringify(decisionData, null, 2);
+
+    decOut.textContent = decPretty;
+    localStorage.setItem(LS_DEC, decPretty);
+
+  } catch (err) {
+    predOut.textContent = "Frontend Error:\n" + err;
+    decOut.textContent = "Frontend Error:\n" + err;
+    localStorage.setItem(LS_PRED, predOut.textContent);
+    localStorage.setItem(LS_DEC, decOut.textContent);
+    console.error(err);
+  }
+}
+
+async function downloadPrediction() {
+  const predOut = document.getElementById("predOut");
+
+  try {
+    predOut.textContent = "Generating downloadable prediction JSON...";
+
+    const payload = {
+      name: document.getElementById("name").value,
+      perigee_km: Number(document.getElementById("perigee").value),
+      apogee_km: Number(document.getElementById("apogee").value),
+      inclination_deg: Number(document.getElementById("inc").value),
+    };
+
+    const res = await fetch("http://127.0.0.1:8000/predict_download", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload),
+    });
+
+    if (!res.ok) {
+      const errText = await res.text();
+      predOut.textContent = `DOWNLOAD ERROR: HTTP ${res.status}\n\n${errText}`;
+      localStorage.setItem(LS_PRED, predOut.textContent);
+      return;
+    }
+
+    const blob = await res.blob();
+    const url = window.URL.createObjectURL(blob);
+
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "prediction_output.json";
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+
+    window.URL.revokeObjectURL(url);
+
+    predOut.textContent = "✅ Prediction JSON downloaded successfully.";
+    localStorage.setItem(LS_PRED, predOut.textContent);
+
+  } catch (err) {
+    predOut.textContent = "Frontend Error:\n" + err;
+    localStorage.setItem(LS_PRED, predOut.textContent);
+    console.error(err);
+  }
+}
+</script>
+
+</body>
+</html>
